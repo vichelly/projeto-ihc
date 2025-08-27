@@ -4,9 +4,10 @@ Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), 
 
 Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Título do TCC** sob orientação do Professor **Nome do Orientador** e desenvolvido pelos seguintes alunos:
 
-- Nome Componente 1
-- Nome Componente 2
-- Nome Componente 3
+- Vitor Lucas Fujita Felício RA: 22.122.077-5
+- Murilo
+- Rafael Leal
+- Juan Caio Galera Parottini
 
 ## Resumo
 
