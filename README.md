@@ -8,6 +8,21 @@ Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Tí
 - Murilo da Fonseca Guimarães RA: 22.122.079-1
 - Rafael Leal Silva RA: 22.122.029-6
 - Juan Caio Galera Parottini RA: 22.122.067-6
+- 
+1) Conhecendo o Problema
+1.1) Membros de Equipe (nome completo e número de matrícula):
+1.2) Título Original do TCC:
+1.3) Nome do orientador:
+1.4) Previsto desenvolver Interface? ( ) Sim ( ) Não
+1.5) Objetivo do trabalho?
+1.6) Qual o produto final?
+1.7) Quem é o usuário final deste produto?
+1.8) O que o usuário recebe de benefício ao usar esse produto?
+1.9) Quais as funcionalidades da ferramenta (visão do usuário)?
+1.10) Quais tecnologias e ferramentas computacionais que pretendem usar neste
+projeto (TCC)?
+1.11) Qual é o contexto de uso dessa aplicação? (esse já é um conceito de IHC que
+professor explicou na sala)
 
 ## Resumo
 
