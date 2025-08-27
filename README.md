@@ -24,7 +24,7 @@ Obs.: Apesar de não estar no escopo inicial, durante o desenvolvimento foi expl
 
 1.5) Objetivo do trabalho
 
-Desenvolver um robô humanoide parcial (da cintura para cima), inspirado no projeto OpenSource InMoov, capaz de capturar os movimentos de uma pessoa por meio de visão computacional e replicá-los nos membros superiores do robô em tempo quase real.
+Desenvolver um robô humanoide parcial (da cintura para cima), inspirado no projeto open-source InMoov, capaz de capturar os movimentos de uma pessoa por meio de visão computacional e replicá-los nos membros superiores do robô em tempo quase real.
 
 1.6) Qual o produto final?
 
@@ -60,7 +60,7 @@ Software: ROS2, OpenCV (visão computacional), MQTT (comunicação em rede).
 
 Linguagens: Python e C++.
 
-Modelagem/Hardware: Estrutura baseada em peças impressas 3D do InMoov.
+Modelagem/Hardware: Estrutura criada utilizando peças de impressão 3D baseadas no InMoov.
 
 1.11) Qual é o contexto de uso dessa aplicação?
 
