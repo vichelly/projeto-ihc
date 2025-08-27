@@ -64,7 +64,7 @@ Modelagem/Hardware: Estrutura baseada em peças impressas 3D do InMoov.
 
 1.11) Qual é o contexto de uso dessa aplicação?
 
-O robô ATENA será utilizado em ambiente acadêmico e de pesquisa, para estudo de interação humano-robô. O contexto principal é o de IHC (Interação Humano-Computador), onde o movimento humano é capturado e traduzido para movimento robótico, permitindo estudar aspectos de tempo de resposta, precisão, telepresença e colaboração homem-máquina.
+O robô ATENA será utilizado em ambiente acadêmico e de pesquisa, para estudo de interação humano-robô. O contexto principal é o de Interação Humano-Robô, onde o movimento humano é capturado e traduzido para movimento robótico, permitindo estudar aspectos de tempo de resposta, precisão e colaboração homem-máquina.
 ## Resumo
 
 
