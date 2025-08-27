@@ -5,7 +5,7 @@ Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), 
 Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Título do TCC** sob orientação do Professor **Nome do Orientador** e desenvolvido pelos seguintes alunos:
 
 - Vitor Lucas Fujita Felício RA: 22.122.077-5
-- Murilo da Fonseca Guimarães RA:22.122.079-1
+- Murilo da Fonseca Guimarães RA: 22.122.079-1
 - Rafael Leal
 - Juan Caio Galera Parottini
 
