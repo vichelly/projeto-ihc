@@ -8,21 +8,24 @@ Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Tí
 - Murilo da Fonseca Guimarães RA: 22.122.079-1
 - Rafael Leal Silva RA: 22.122.029-6
 - Juan Caio Galera Parottini RA: 22.122.067-6
-- 
-1) Conhecendo o Problema
-1.1) Membros de Equipe (nome completo e número de matrícula):
+  
+<br/>
 1.2) Título Original do TCC:
-1.3) Nome do orientador:
-1.4) Previsto desenvolver Interface? ( ) Sim ( ) Não
-1.5) Objetivo do trabalho?
-1.6) Qual o produto final?
-1.7) Quem é o usuário final deste produto?
-1.8) O que o usuário recebe de benefício ao usar esse produto?
-1.9) Quais as funcionalidades da ferramenta (visão do usuário)?
+## TCC ATENA
+1.3) Nome do orientador:<br/>
+Rafael Gomes Alves
+1.4) Previsto desenvolver Interface? ( ) Sim (x) Não<br/>
+1.5) Objetivo do trabalho?<br/>
+Robo baseado no inmoov que replica movimentos.
+1.6) Qual o produto final?<br/>
+
+1.7) Quem é o usuário final deste produto?<br/>
+1.8) O que o usuário recebe de benefício ao usar esse produto?<br/>
+1.9) Quais as funcionalidades da ferramenta (visão do usuário)?<br/>
 1.10) Quais tecnologias e ferramentas computacionais que pretendem usar neste
-projeto (TCC)?
+projeto (TCC)?<br/>
 1.11) Qual é o contexto de uso dessa aplicação? (esse já é um conceito de IHC que
-professor explicou na sala)
+professor explicou na sala)<br/>
 
 ## Resumo
 
@@ -127,17 +130,11 @@ Sobre o produto ou serviço que seu grupo está desenvolvendo, responda:
 <!-- TODOs:
 - Add exemplos
  -->
-
-
-<img width="644" height="558" alt="image" src="https://github.com/user-attachments/assets/cea61c70-9211-4b17-a561-5474c6436926" />
-
 Quero desenvolver uma interface de usuário para um projeto chamado Atena, um robô humanoide baseado no InMoov, que possui apenas a parte superior do corpo (da cintura para cima). O sistema utiliza Raspberry Pi, ROS2, visão computacional e MQTT.
 
 A função principal do robô é capturar os movimentos dos braços de uma pessoa por câmera e replicá-los em tempo quase real.
 
 Preciso de uma interface web (dashboard) acessível pelo navegador, hospedada no Raspberry Pi, que permita:
-
-Visualização em tempo real
 
 Stream de vídeo da câmera que captura a pessoa.
 
@@ -171,14 +168,6 @@ Comunicação
 
 Backend deve conversar com ROS2 e MQTT.
 
-Interface deve usar WebSockets ou MQTT over WebSocket para atualizações em tempo real.
-
-Quero que você gere o layout em HTML/CSS/JS (ou React) com foco em:
-
-Design simples, intuitivo e responsivo.
-
-Dashboard dividido em seções claras: Visualização, Controle, Status e Configurações.
-
-Uso de ícones e feedback visual para facilitar a interação.
+<img width="644" height="558" alt="image" src="https://github.com/user-attachments/assets/cea61c70-9211-4b17-a561-5474c6436926" />
 
 [https://bolt.new/oauth2?code=aWlK-T0lSspGGMbcu9kRP01Max7J4LR0tTVPWR-E0OQ&state=6ebc71d1-f4dd-4c4b-81ce-6064bb2c39f0](https://bolt.new/~/sb1-jveugx49)
