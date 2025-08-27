@@ -6,8 +6,8 @@ Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Tí
 
 - Vitor Lucas Fujita Felício RA: 22.122.077-5
 - Murilo da Fonseca Guimarães RA: 22.122.079-1
-- Rafael Leal
-- Juan Caio Galera Parottini
+- Rafael Leal Silva RA: 22.122.029-6
+- Juan Caio Galera Parottini RA: 22.122.067-6
 
 ## Resumo
 
