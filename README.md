@@ -24,7 +24,7 @@ Obs.: Apesar de não estar no escopo inicial, durante o desenvolvimento foi expl
 
 1.5) Objetivo do trabalho
 
-Desenvolver um robô humanoide parcial (da cintura para cima), inspirado no projeto InMoov, capaz de capturar os movimentos de uma pessoa por meio de visão computacional e replicá-los nos braços do robô em tempo quase real.
+Desenvolver um robô humanoide parcial (da cintura para cima), inspirado no projeto OpenSource InMoov, capaz de capturar os movimentos de uma pessoa por meio de visão computacional e replicá-los nos membros superiores do robô em tempo quase real.
 
 1.6) Qual o produto final?
 
@@ -54,7 +54,7 @@ Estrutura modular baseada em ROS2 para expansão futura.
 
 1.10) Quais tecnologias e ferramentas computacionais que pretendem usar neste projeto (TCC)?
 
-Hardware: Raspberry Pi, câmera, servomotores.
+Hardware: Raspberry Pi, câmera ZED SDK, servomotores.
 
 Software: ROS2, OpenCV (visão computacional), MQTT (comunicação em rede).
 
