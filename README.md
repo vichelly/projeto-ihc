@@ -68,6 +68,9 @@ Modelagem/Hardware: Estrutura criada utilizando peças de impressão 3D baseadas
 
 O robô ATENA será utilizado em ambiente acadêmico e de pesquisa, para estudo de interação humano-robô. O contexto principal é o de Interação Humano-Robô, onde o movimento humano é capturado e traduzido para movimento robótico, permitindo estudar aspectos de tempo de resposta, precisão e colaboração homem-máquina.
 
+# Desenvolvimento
+
+
 ## Análise de concorrência
 
 1. Identifique os principais concorrentes ou softwares mais utilizados pelo seu público-alvo.
