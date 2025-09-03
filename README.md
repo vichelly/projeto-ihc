@@ -69,7 +69,19 @@ Modelagem/Hardware: Estrutura criada utilizando peças de impressão 3D baseadas
 O robô ATENA será utilizado em ambiente acadêmico e de pesquisa, para estudo de interação humano-robô. O contexto principal é o de Interação Humano-Robô, onde o movimento humano é capturado e traduzido para movimento robótico, permitindo estudar aspectos de tempo de resposta, precisão e colaboração homem-máquina.
 
 # Desenvolvimento
-
+ - [Analise de Concorrencia](https://github.com/vichelly/projeto-ihc/blob/main/docs/2_concorencia.md)
+ - [Personas](https://github.com/vichelly/projeto-ihc/blob/main/docs/3_personas.md)
+ - [Cenário de Análise/Problema](https://github.com/vichelly/projeto-ihc/blob/main/docs/4_cenarios.md)
+ - [Análide de Tarefas](https://github.com/vichelly/projeto-ihc/blob/main/docs/5_analise_tarefas.md)
+ - [Prototipação em Papel](https://github.com/vichelly/projeto-ihc/blob/main/docs/prototipacao.md)
+ - [Coleta de Dados](https://github.com/vichelly/projeto-ihc/blob/main/docs/coleta_dados.md)
+ - [Ciclo de vida da engenharia de usabilidade](https://github.com/vichelly/projeto-ihc/blob/main/docs/ciclo_vida.md)
+ - [Modelo Conceitual](https://github.com/vichelly/projeto-ihc/blob/main/docs/modelo_conceitual.md)
+ - [MOLIC](https://github.com/vichelly/projeto-ihc/blob/main/docs/molic.md)
+ - [FIGMA](https://github.com/vichelly/projeto-ihc/blob/main/docs/figma.md)
+ - [Planejamento da Avaliação](https://github.com/vichelly/projeto-ihc/blob/main/docs/planejamento_avaliacao.md)
+ - [Avaliação de IHC através de Inspeção Heurística](https://github.com/vichelly/projeto-ihc/blob/main/docs/heuristica.md)
+ - [Avaliação de Usabilidade baseado em Observação do Usuário](https://github.com/vichelly/projeto-ihc/blob/main/docs/observacao_usuario.md)
 
 ## Análise de concorrência
 
