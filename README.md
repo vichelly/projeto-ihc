@@ -9,33 +9,34 @@ Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Tí
 - Rafael Leal Silva RA: 22.122.029-6
 - Juan Caio Galera Parottini RA: 22.122.067-6
   <br>
- 1.2) Título Original do TCC
+  
+ 1.2) **Título Original do TCC**
 
 ATENA – Robô antropomórfico baseado no InMoov para replicação de movimentos humanos em tempo real
 
-1.3) Nome do orientador
+1.3) **Nome do orientador**
 
 Rafael Gomes Alves
 
-1.4) Previsto desenvolver Interface?
+1.4) **Previsto desenvolver Interface?**
 
 ( ) Sim     (x) Não
 
 Obs.: Apesar de não estar no escopo inicial, durante o desenvolvimento foi explorada a criação de uma interface protótipo para visualização e controle.
 
-1.5) Objetivo do trabalho
+1.5) **Objetivo do trabalho**
 
 Desenvolver um robô humanoide parcial (da cintura para cima), inspirado no projeto open-source InMoov, capaz de capturar os movimentos de uma pessoa por meio de visão computacional e replicá-los nos membros superiores do robô em tempo quase real.
 
-1.6) Qual o produto final?
+1.6) **Qual o produto final?**
 
 Um robô funcional da cintura para cima, com braços robóticos controlados por visão computacional e sincronizados por meio de comunicação em rede.
 
-1.7) Quem é o usuário final deste produto?
+1.7) **Quem é o usuário final deste produto?**
 
 Estudantes, pesquisadores e entusiastas de robótica que desejam estudar controle de movimento humanoide, visão computacional e interação homem-máquina.
 
-1.8) O que o usuário recebe de benefício ao usar esse produto?
+1.8) **O que o usuário recebe de benefício ao usar esse produto?**
 
 Possibilidade de estudo em robótica antropomórfica.
 
@@ -43,7 +44,7 @@ Ambiente prático para testar visão computacional aplicada a controle de atuado
 
 Base para projetos educacionais, de pesquisa e futuras aplicações em teleoperação.
 
-1.9) Quais as funcionalidades da ferramenta (visão do usuário)?
+1.9) **Quais as funcionalidades da ferramenta (visão do usuário)?**
 
 Captura de movimentos humanos através de câmera.
 
@@ -53,7 +54,7 @@ Comunicação em rede para atualização próxima ao tempo real (via MQTT).
 
 Estrutura modular baseada em ROS2 para expansão futura.
 
-1.10) Quais tecnologias e ferramentas computacionais que pretendem usar neste projeto (TCC)?
+1.10) **Quais tecnologias e ferramentas computacionais que pretendem usar neste projeto (TCC)?**
 
 Hardware: Raspberry Pi, câmera ZED SDK, servomotores.
 
@@ -63,78 +64,9 @@ Linguagens: Python e C++.
 
 Modelagem/Hardware: Estrutura criada utilizando peças de impressão 3D baseadas no InMoov.
 
-1.11) Qual é o contexto de uso dessa aplicação?
+1.11) **Qual é o contexto de uso dessa aplicação?**
 
 O robô ATENA será utilizado em ambiente acadêmico e de pesquisa, para estudo de interação humano-robô. O contexto principal é o de Interação Humano-Robô, onde o movimento humano é capturado e traduzido para movimento robótico, permitindo estudar aspectos de tempo de resposta, precisão e colaboração homem-máquina.
-
-## Publico Alvo
-  
-Personas Primárias:
-1.
-- Quem é: Empresário atuante em uma ramo de linha de montagem.
-- Características demográficas:
-    Idade: 43 anos.
-    Formação em administração, engenharia da produção, engenharia de segurança ou áreas correlatas.
-    Proprietário de empresas de grande porte.
-- Características comportamentais:
-    Preocupado com segurança dos trabalhadores.
-    Busca redução de custos com acidentes de trabalho e seguros.
-    Valorização de tecnologias que otimizem processos produtivos sem expor pessoas a riscos.
-- Características psicográficas:
-    Mentalidade pragmática e orientada a resultados.
-    Acredita que inovação tecnológica é diferencial competitivo.
-    Deseja soluções que unam segurança, eficiência e retorno financeiro.
-- Características geográficas:
-    Atuação em polos industriais, áreas de mineração, regiões com forte atividade fabril.
-
-2.
-- Quem é: Pesquisador da area de tecnologia.
-- Características demográficas:
-    Idade: 34 anos.
-    Formação em engenharia elétrica, mecatrônica e ciência da computação.
-    Atua em laboratórios de pesquisa.
-- Características comportamentais:
-    Interesse em experimentar novas tecnologias.
-    Familiaridade com projetos maker (Exemplo: Impressão 3D).
-    Motivado por inovação e aplicabilidade prática.
-- Características psicográficas:
-    Gosta de resolver problemas complexos.
-    Busca automação inteligente e robôs capazes de interação natural.
-- Características geográficas:
-    Centros urbanos com universidades e hubs de tecnologia.
-
-  3.
-- Quem é: Professor da area de robotica.
-- Características demográficas:
-    Idade: 35 anos.
-    Formação em engenharia elétrica, mecatrônica e ciência da computação.
-    Atua em universidades, laboratórios de pesquisa ou startups de robótica.
-- Características comportamentais:
-    Interesse em estudar e ensinar tecnologias inovadoras.
-    Motivado por inovação e aplicabilidade prática.
-- Características psicográficas:
-    Gosta de resolver problemas complexos.
-    Busca por conhecimento para passar aos estudantes.
-- Características geográficas:
-    Faculdades e ou universidades.
-
-  4.
-- Quem é: Estudante de engenharia mecatronica.
-- Características demográficas:
-    Idade: 22 anos.
-    Formação em engenharia elétrica, mecatrônica, ciência da computação ou áreas correlatas.
-    Atuam em universidades, laboratórios de pesquisa ou startups de robótica.
-- Características comportamentais:
-    Interesse em estudar e ensinar tecnologias inovadoras.
-    Motivado por inovação e aplicabilidade prática.
-- Características psicográficas:
-    Gosta de resolver problemas complexos.
-    Busca por conhecimento para passar aos estudantes.
-- Características geográficas:
-    Faculdades.
-  
-- Determine qual o grupo específico de pessoas ou organizações para as quais este produto ou serviço é direcionado.
-- Descreva as caracteristicas demográficas, comportamentais, psicográficas ou geográficas deste público alvo que o torna mais propenso a se interessar pelo que está sendo oferecido neste projeto ou serviço.
 
 ## Análise de concorrência
 
@@ -147,15 +79,6 @@ Personas Primárias:
 7. Identifique padrões e tendências no mercado.
 8. Elabore relatórios e sumarize os resultados.
 9. Extraia pontos positivos e faça recomendações.
-
-### Personas
-
-- Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
-- Quais informações sobre o usuário o serviço ou poduto deve guardar?
-
-  - Persona primaira ...
-  - Persona secundária ...
-  - Outras personas ...
 
 ### Mapa de empatia
 
