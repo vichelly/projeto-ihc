@@ -66,12 +66,6 @@
 - *Características geográficas:*
     Faculdades.
   <br>
-  
-  Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais. <br>
-  Determine qual o grupo específico de pessoas ou organizações para as quais este produto ou serviço é direcionado. <br>
-  Descreva as caracteristicas demográficas, comportamentais, psicográficas ou geográficas deste público alvo que o torna mais propenso a se interessar pelo que está sendo oferecido neste projeto ou serviço. <br>
-  Quais informações sobre o usuário o serviço ou poduto deve guardar? <br>
-  Apresnete apenas as personas primárias. <br>
 
 # Mapa de empatia
 
@@ -86,9 +80,6 @@
 
 **Gabriel Silva Monteiro**
 <img width="1262" height="793" alt="image" src="https://github.com/user-attachments/assets/37f8a1ae-6ad1-43b2-9aa3-83baa078495f" />
-
-
-
 
 # Contexto de uso
 
@@ -105,6 +96,3 @@
   - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina?
 
 
-
-
-[1] Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
