@@ -83,18 +83,6 @@ O robô ATENA será utilizado em ambiente acadêmico e de pesquisa, para estudo 
  - [Avaliação de IHC através de Inspeção Heurística](https://github.com/vichelly/projeto-ihc/blob/main/docs/heuristica.md)
  - [Avaliação de Usabilidade baseado em Observação do Usuário](https://github.com/vichelly/projeto-ihc/blob/main/docs/observacao_usuario.md)
 
-## Análise de concorrência
-
-1. Identifique os principais concorrentes ou softwares mais utilizados pelo seu público-alvo.
-2. Colete informações sobre os concorrentes selecionados.
-3. Analise as características e funcionalidades dos concorrentes.
-4. Avalie a experiência do usuário (UX).
-5. Examine os preços e modelos de negócio.
-6. Pesquisa de satisfação do cliente e opiniões.
-7. Identifique padrões e tendências no mercado.
-8. Elabore relatórios e sumarize os resultados.
-9. Extraia pontos positivos e faça recomendações.
-
 ### Mapa de empatia
 
 ![Mapa de empatia](empatia.png)
