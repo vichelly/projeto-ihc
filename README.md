@@ -8,7 +8,6 @@ Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Tí
 - Juan Caio Galera Parottini RA: 22.122.067-6
 - Rafael Leal Silva RA: 22.122.029-6
 - Vitor Lucas Fujita Felício RA: 22.122.077-5
-  
   <br>
   
  1.2) **Título Original do TCC**
