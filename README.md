@@ -34,7 +34,7 @@ Um robô funcional da cintura para cima, com braços robóticos controlados por 
 
 1.7) **Quem é o usuário final deste produto?**
 
-Estudantes, pesquisadores e entusiastas de robótica que desejam estudar controle de movimento humanoide, visão computacional e interação homem-máquina.
+Estudantes, pesquisadores , empresarios de empresas com insalubridade, e entusiastas de robótica que desejam estudar controle de movimento humanoide, visão computacional e interação homem-máquina.
 
 1.8) **O que o usuário recebe de benefício ao usar esse produto?**
 
@@ -66,7 +66,7 @@ Modelagem/Hardware: Estrutura criada utilizando peças de impressão 3D baseadas
 
 1.11) **Qual é o contexto de uso dessa aplicação?**
 
-O robô ATENA será utilizado em ambiente acadêmico e de pesquisa, para estudo de interação humano-robô. O contexto principal é o de Interação Humano-Robô, onde o movimento humano é capturado e traduzido para movimento robótico, permitindo estudar aspectos de tempo de resposta, precisão e colaboração homem-máquina.
+O robô ATENA será utilizado em ambiente acadêmico e de pesquisa, para estudo de interação humano-robô, alem disto, pode ser usado em empresas e locais de trabalho insalubres. O contexto principal é o de Interação Humano-Robô, onde o movimento humano é capturado e traduzido para movimento robótico, permitindo estudar aspectos de tempo de resposta, precisão e colaboração homem-máquina.
 
 # Desenvolvimento
  - [Analise de Concorrencia](https://github.com/vichelly/projeto-ihc/blob/main/docs/2_concorencia.md)
@@ -83,34 +83,6 @@ O robô ATENA será utilizado em ambiente acadêmico e de pesquisa, para estudo 
  - [Avaliação de IHC através de Inspeção Heurística](https://github.com/vichelly/projeto-ihc/blob/main/docs/heuristica.md)
  - [Avaliação de Usabilidade baseado em Observação do Usuário](https://github.com/vichelly/projeto-ihc/blob/main/docs/observacao_usuario.md)
 
-### Mapa de empatia
-
-![Mapa de empatia](empatia.png)
-
-- Determine o mapa de empatia[^1] de pelo menos uma persona primária e uma sercundária.
-  - O que o usuário vê: aqui estamos falando do ambiente visual em que o usuário se encontra. Ou seja, o que ele efetivamente enxerga, as pessoas e objetos que estão ao seu redor. Isso ajuda a entender o contexto em que o usuário está inserido e as influências visuais que está recebendo.
-  - O que o usuário ouve: neste quadrante, buscamos entender o que o usuário está ouvindo, os sons que o cercam e como eles influenciam suas ações.
-  - O que o usuário diz e faz: aqui consideramos ações e comportamentos que o usuário apresenta durante sua interação com serviço ou poduto.
-  - O que o usuário pensa e sente: neste quadrante, buscamos entender os pensamentos, sentimentos, emoções e percepções que o usuário tem em relação ao serviço ou poduto. Quais expectativas o usuário cria sobre o serviço ou poduto?
-  Que tipo de serviço ou poduto mais agrada essa persona?
-  - Dores: quando falamos sobre dores do usuário, estamos fazendo referência a quaisquer obstáculos, necessidades ou frustrações que o usuário possa experimentar ao tentar realizar uma tarefa ou alcançar um objetivo. Isso inclui, por exemplo, problemas de usabilidade, dificuldades de acesso ou outros desafios que podem afetar a experiência do usuário.
-  - Ganhos: nesse caso estamos falando de quaisquer benefícios ou recompensas que o usuário possa experimentar ao utilizar o serviço ou poduto. Isso pode incluir economia de tempo ou facilidade de uso, por exemplo. Que desejos do usuário o serviço ou poduto satisfaz?
-
-## Contexto de uso
-
-- Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
-- Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
-- Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
-- O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
-
-## Jornada do usuário
-
-- Criar uma narrativa para o o seu serviço ou poduto com o usuário.
-- Determine o que o usuário realiza desde a primeira até o última interação com o serviço ou poduto.
-  - Descreva o que acontece ou pode acontecer passo a passo
-  - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina?
-
-
 <!--
 ## Análise de concorrência
 
@@ -119,7 +91,7 @@ O robô ATENA será utilizado em ambiente acadêmico e de pesquisa, para estudo 
 - Em relação aos concorrentes, respondam as seguintes perguntas?
   - Existe plataforma similar que atende o mesmo mercado e funcionalidades? Se sim: Quais os pontos positivos? Quais os pontos negativos?
   - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
- -->
+ 
  
 ## Coleta de dados
 
@@ -144,7 +116,7 @@ O robô ATENA será utilizado em ambiente acadêmico e de pesquisa, para estudo 
 
 <!-- TODOs:
 - Add exemplos
- -->
+
 Quero desenvolver uma interface de usuário para um projeto chamado Atena, um robô humanoide baseado no InMoov, que possui apenas a parte superior do corpo (da cintura para cima). O sistema utiliza Raspberry Pi, ROS2, visão computacional e MQTT.
 
 A função principal do robô é capturar os movimentos dos braços de uma pessoa por câmera e replicá-los em tempo quase real.
@@ -180,7 +152,7 @@ Ajuste de parâmetros de sensibilidade e delay.
 Perfil de usuário (salvar configurações).
 
 Comunicação
-
+-->
 Backend deve conversar com ROS2 e MQTT.
 
 <img width="644" height="558" alt="image" src="https://github.com/user-attachments/assets/cea61c70-9211-4b17-a561-5474c6436926" />
