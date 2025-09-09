@@ -1,5 +1,4 @@
 # Análise de concorrência
----
 
 - **[Shadow Robot Company](https://shadowrobot.com)** → mãos robóticas dexterous para manipulação fina e teleoperação.
   <img width="1495" height="738" alt="image" src="https://github.com/user-attachments/assets/1eb2f2f7-4f5c-4c6b-a7d7-d139c5790c7f" />
@@ -7,8 +6,7 @@
   <img width="984" height="604" alt="image" src="https://github.com/user-attachments/assets/c4bac2d3-127a-46f4-b04f-d5cd27c9479d" />
 - **[Kinova Gen3](https://www.kinovarobotics.com/product/gen3-robots)** → mãos robóticas dexterous para manipulação fina e teleoperação.
   <img width="1504" height="846" alt="image" src="https://github.com/user-attachments/assets/0b2a1d81-dccf-4e2c-a546-c88c6ea08e9f" />
-
-
+  
 ---
 
 ## Quadro Comparativo
