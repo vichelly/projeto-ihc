@@ -2,6 +2,7 @@
 
 > **_NOTE:_**: A equipe deve descrever as funcionalidades mais importantes da interface/produto. A equipe deve modelar pelo menos 1 HTA, 1 GOMS e 1 CTT (de pelo menos 4 funcionalidades diferentes). Cada diagrama deve ter um texto explicando a funcionalidade.
 
+# Tela Inicial / Monitoramento
 ## Iniciar Replicação de Movimentos
 ### HTA
 O operador precisa iniciar a replicação dos movimentos humanos pelo robô. Essa tarefa envolve verificar conexões, ativar o comando e acompanhar o status do sistema.
@@ -30,6 +31,7 @@ Resumo: Permite ao usuário acionar a replicação verificando conexões, confir
 
 ### CTT
 
+# Tela de Diagnóstico / Comunicação
 ## Ajustar Velocidade e Amplitude
 ### HTA
 O usuário acessa o painel de ajustes, define valores nos sliders de velocidade e amplitude e confirma as alterações para aplicar em tempo real.
@@ -57,6 +59,7 @@ Resumo: Permite ao usuário ajustar sliders de velocidade e amplitude e confirma
 
 ### CTT
 
+# Tela de Controle Manual 
 ## Enviar Comandos Manuais para Juntas
 ### HTA
 Funcionalidade para controle manual: o usuário seleciona a junta, define o valor desejado (slider ou numérico) e envia o comando para execução imediata.
@@ -84,6 +87,7 @@ Resumo: Dá ao usuário a possibilidade de escolher uma junta, definir valores e
 
 ### CTT
 
+# Tela de Configurações / Calibração
 ## Calibrar os Braços
 ### HTA
 O usuário posiciona os braços do robô, inicia a calibração automática e salva a configuração, garantindo alinhamento e precisão nos movimentos.
