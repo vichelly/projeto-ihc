@@ -62,7 +62,7 @@ Resumo: Permite ao usuário ajustar sliders de velocidade e amplitude e confirma
 # Tela de Controle Manual 
 ## Enviar Comandos Manuais para Juntas
 ### HTA
-Funcionalidade para controle manual: o usuário seleciona a junta, define o valor desejado (slider ou numérico) e envia o comando para execução imediata.
+O usuário seleciona a junta, define o valor desejado (slider ou numérico) e envia o comando para execução imediata.
 
 <img width="728" height="406" alt="image" src="https://github.com/user-attachments/assets/b1bab6ea-de7e-419e-821d-b4eca3066061" />
 
