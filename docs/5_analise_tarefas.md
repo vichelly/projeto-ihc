@@ -32,30 +32,32 @@ Resumo: Permite ao usuário acionar a replicação verificando conexões, confir
 ### CTT
 
 # Tela de Diagnóstico / Comunicação
-## Ajustar Velocidade e Amplitude
+## Diagnóstico e Comunicação
 ### HTA
-O usuário acessa o painel de ajustes, define valores nos sliders de velocidade e amplitude e confirma as alterações para aplicar em tempo real.
+Permite o usuário verificar conexões e status em tempo real, analisar logs de eventos e enviar comandos de teste.
 
-<img width="959" height="404" alt="image" src="https://github.com/user-attachments/assets/da2201e3-788e-47a6-b24c-87dba8392c27" />
+<img width="1392" height="394" alt="image" src="https://github.com/user-attachments/assets/495db693-1742-455e-b8ca-cfa1dd04bfa5" />
 
 ### GOMS
-**Meta:** Ajustar parâmetros de movimento do robô..<br><br>
+**Meta:** Verificar status e realizar testes de comunicação.<br><br>
 **Operadores:**<br>
-- Acessar painel de ajustes..<br>
-- Mover sliders de velocidade e amplitude.<br>
-- Confirmar alterações.<br>
+- Clicar no menu “Diagnóstico”.<br>
+- Rolar lista de logs.<br>
+- Digitar comando de teste no terminal.<br>
+- Clicar em “Exportar Relatório”.<br>
 
 **Método:**<br>
-1. Acessar tela de ajustes.<br>
-2. Selecionar sliders de velocidade e amplitude.<br>
-3. Definir valores.<br>
-4. Confirmar ajustes.<br>
+1. Abrir tela de Diagnóstico/Comunicação.<br>
+2. Conferir status das conexões.<br>
+3. Consultar registros de log.<br>
+4. Enviar comando de teste.<br>
+5. Exportar relatório se necessário.<br>
 
 **Seletores:**<br>
-- Se usuário confirma → aplicar novos valores.<br>
-- Se cancela → manter valores anteriores.<br>
+- Se status normal → apenas registrar.<br>
+- Se erro → reenviar comando ou acionar suporte.<br>
 
-Resumo: Permite ao usuário ajustar sliders de velocidade e amplitude e confirmar alterações para aplicação em tempo real.<br>
+Resumo: O usuário entra na tela de diagnóstico, checa conexões, analisa logs, testa comandos e exporta relatórios em caso de falhas.<br>
 
 ### CTT
 
@@ -88,30 +90,31 @@ Resumo: Dá ao usuário a possibilidade de escolher uma junta, definir valores e
 ### CTT
 
 # Tela de Configurações / Calibração
-## Calibrar os Braços
+## Configurações e Calibração
 ### HTA
-O usuário posiciona os braços do robô, inicia a calibração automática e salva a configuração, garantindo alinhamento e precisão nos movimentos.
+Permite ajustar parâmetros técnicos e calibrar o robô para maior precisão, salvando as configurações personalizadas.  
 
-<img width="1053" height="434" alt="image" src="https://github.com/user-attachments/assets/11729019-5e15-48d3-8a4e-e29ca148a208" />
+<img width="1280" height="596" alt="image" src="https://github.com/user-attachments/assets/6fecfa06-84f3-4ce4-a307-96b9b8239700" />
 
 ### GOMS
-**Meta:** Calibrar o robô para garantir alinhamento.<br><br>
+**Meta:** Ajustar parâmetros técnicos e calibrar o robô.<br><br>
 **Operadores:**<br>
-- Posicionar fisicamente os braços em ponto inicial.<br>
-- Selecionar botão "Calibrar".<br>
-- Confirmar calibração.<br>
-- Salvar nova configuração.<BR>
+- Clicar no ícone de “Configurações”.<br>
+- Mover sliders (velocidade, amplitude, delay)<br>
+- Selecionar opção “Calibrar Braços”<br>
+- Clicar em “Salvar Perfil”<br>
 
 **Método:**<br>
-1. Preparar robô na posição inicial.<br>
-2. Acionar função de calibração.<br>
-3. Confirmar processo.<br>
-4. Salvar parâmetros de calibração.<br>
+1. Abrir menu de Configurações.<br>
+2. Ajustar sliders conforme desejado.<br>
+3. Iniciar calibração dos braços.<br>
+4. Confirmar ou repetir calibração.<br>
+5. Salvar perfil com parâmetros definidos.
 
 **Seletores:**<br>
-- Se calibração é aceita → armazenar valores.<br>
-- Se falha → repetir procedimento.<br>
+- Se calibração aceita → salvar perfil.<br>
+- Se calibração falha → repetir ajuste.<br>
 
-Resumo: O usuário posiciona os braços, inicia a calibração e salva as configurações para manter precisão.<br>
+Resumo: O usuário acessa a tela, ajusta parâmetros via sliders, calibra braços e salva as preferências.<br>
 
 ### CTT
