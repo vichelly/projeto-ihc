@@ -31,6 +31,11 @@ Resumo: Permite ao usuário acionar a replicação verificando conexões, confir
 
 ### CTT
 
+<img width="1113" height="613" alt="image" src="https://github.com/user-attachments/assets/3df8c3a3-a188-4576-924d-594841656f69" />
+<<br>
+**Legenda CTT:**<br>
+<img width="399" height="344" alt="image" src="https://github.com/user-attachments/assets/b476b39b-1338-43a7-96e9-d2e6d1914cb4" />
+
 # Tela de Diagnóstico / Comunicação
 ## Diagnóstico e Comunicação
 ### HTA
@@ -61,6 +66,11 @@ Resumo: O usuário entra na tela de diagnóstico, checa conexões, analisa logs,
 
 ### CTT
 
+<img width="1132" height="536" alt="image" src="https://github.com/user-attachments/assets/dfd72e0d-a207-4957-952b-4ec8da85013a" />
+<br>
+**Legenda CTT:**<br>
+<img width="399" height="344" alt="image" src="https://github.com/user-attachments/assets/b476b39b-1338-43a7-96e9-d2e6d1914cb4" />
+
 # Tela de Controle Manual 
 ## Enviar Comandos Manuais para Juntas
 ### HTA
@@ -88,6 +98,11 @@ O usuário seleciona a junta, define o valor desejado (slider ou numérico) e en
 Resumo: Dá ao usuário a possibilidade de escolher uma junta, definir valores e enviar comandos diretos.<br>
 
 ### CTT
+
+<img width="1155" height="386" alt="image" src="https://github.com/user-attachments/assets/7d859570-dd77-417a-a062-b6eb2667e98d" />
+<br>
+**Legenda CTT:**<br>
+<img width="399" height="344" alt="image" src="https://github.com/user-attachments/assets/b476b39b-1338-43a7-96e9-d2e6d1914cb4" />
 
 # Tela de Configurações / Calibração
 ## Configurações e Calibração
@@ -118,3 +133,8 @@ Permite ajustar parâmetros técnicos e calibrar o robô para maior precisão, s
 Resumo: O usuário acessa a tela, ajusta parâmetros via sliders, calibra braços e salva as preferências.<br>
 
 ### CTT
+
+<img width="706" height="569" alt="image" src="https://github.com/user-attachments/assets/9c8dc36e-8c66-4e81-adb5-f409e19d91c6" />
+<br>
+**Legenda CTT:**<br>
+<img width="399" height="344" alt="image" src="https://github.com/user-attachments/assets/b476b39b-1338-43a7-96e9-d2e6d1914cb4" />
