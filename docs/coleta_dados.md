@@ -9,8 +9,7 @@
 - **Sugestões e desejos:** funcionalidades desejadas e prioridades de melhoria.
 
 ## 2. De quem coletar dados?
-- **Usuários primários:** operadores e técnicos que usarão o ATENA no dia a dia.  
-- **Usuários secundários:** pesquisadores, professores e estagiários que monitorem ou configurem o robô.  
+- **Usuários primários:** operadores e técnicos que usarão o ATENA no dia a dia, alem de pesquisadores, professores e estagiários que monitorem ou configurem o robô.
 - **Stakeholders técnicos:** pessoal de TI/manutenção e integradores ROS2/MQTT.  
 - **Usuários não especialistas (amostra):** para avaliar curva de aprendizado e usabilidade para iniciantes.
 
