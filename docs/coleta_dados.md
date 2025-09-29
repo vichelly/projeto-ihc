@@ -22,16 +22,12 @@
 
 ---
 
-# Ferramentas de Coleta Selecionadas 
+# Ferramentas de Coleta
 
 ## 1. Questionários  
-- **Formato:** Google Forms (perguntas fechadas com escalas Likert + 2–3 abertas).  
+- **Formato:** Google Forms.  
 - **Uso:** captar percepções em escala, priorizar itens de usabilidade e medir satisfação.  
-- **Exemplo de conteúdo:** perfil, facilidade de uso (1–5), maior dificuldade, sugestão livre.
-- **Procedimentos práticos:**
-  - 8–12 perguntas (perfil + 5–8 itens de usabilidade), misturar Likert e 2 abertas.  
-  - Incluir consentimento no início.  
-  - Testar com 3–5 pessoas (piloto) e ajustar linguagem/ordem.<br>
+- **Exemplo de conteúdo:** perfil, facilidade de uso , maior dificuldade, sugestão livre.
  [Questionario](https://form.typeform.com/to/OaNexyht)
 
 ## 2. Entrevistas no ambiente do usuário  
