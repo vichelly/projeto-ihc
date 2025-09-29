@@ -69,8 +69,3 @@
 - **Critério principal:** qualidade da coleta e do conjunto de instrumentos (clareza, relevância, completude).  
 - **Triangulação:** cruzar dados de questionários, entrevistas e observação para validar achados.  
 - **Indicadores de qualidade:** taxa de resposta, completude de entrevistas, consistência nas observações e riqueza das justificativas no card sorting.
-
----
-
-> **Observação final:** A escolha entre questionário ou entrevista deve priorizar o objetivo: para **amostragem ampla e medidas comparativas** use questionário; para **insights profundos e contextuais** use entrevista/observação. Utilize ferramentas online (ex.: Google Forms, Google Meet) conforme indicado para facilitar coleta e organização.
-
