@@ -24,44 +24,18 @@
 
 # Ferramentas de Coleta
 
-## 1. Questionários  
+## 1. [Questionario](https://form.typeform.com/to/OaNexyht)
 - **Formato:** Google Forms.  
 - **Uso:** captar percepções em escala, priorizar itens de usabilidade e medir satisfação.  
-- **Exemplo de conteúdo:** perfil, facilidade de uso , maior dificuldade, sugestão livre.
- [Questionario](https://form.typeform.com/to/OaNexyht)
 
-## 2. Entrevistas no ambiente do usuário  
-- **Formato:** semiestruturada (presencial ou remoto), gravação opcional com consentimento.  
+## 2. [Entrevista](https://form.typeform.com/to/vdxNjMkC) 
+- **Formato:** Google Forms, porem pode ser feito presencialmente ou por meio de uma chamada de video.
 - **Uso:** aprofundar problemas práticos, entender rotina de uso e contextos específicos.
-- **Procedimentos práticos:**
-  - 8–12 perguntas abertas cobrindo tarefas principais, dificuldades e sugestões.  
-  - Incluir perguntas situacionais (peça que descrevam um episódio real de uso).
 
-## 3. Observação participante  
-- **Formato:** pesquisador acompanha o usuário durante tarefas (gravação + anotações).  
-- **Uso:** identificar problemas que o usuário não verbaliza; mapear passos reais e workarounds.
-- **Procedimentos práticos:**
-  - Checklist de tarefas a serem observadas (ex.: iniciar replicação, calibrar, enviar comando).  
-  - Campos de anotação: tempo da tarefa, falhas, comportamento compensatório, citações importantes.
+## 3. [Diario de Atividade](https://github.com/user-attachments/files/22618751/Diario.de.Atividade.docx) 
+- **Formato:** Documentação no Word.  
+- **Uso:** Registrar percepções ao longo do uso, sem interação direta.
 
-## 4. Classificação de Cartões (Card Sorting)  
+## 4. [Brainstorming de Necessidades e Desejos dos Usuários](https://atena.contexts.online/app/board/board%2F457026b0-2292-4a2b-bd03-cfe7350010fa)  
 - **Formato:** presencial com cartões físicos ou digital (Miro/Mural).  
-- **Uso:** entender como usuários agrupam funcionalidades e qual a nomenclatura/estrutura de menu ideal.
-- **Procedimentos práticos:**
-  - Preparar 12–20 cartões (funções/telas).  
-  - Pedir que participantes agrupem e nomeiem categorias; registrar tempo e justificativas.
-
----
-
-## Procedimento de coleta
-1. Preparar instrumentos e aplicar piloto (3–5 participantes).  
-2. Refinar instrumentos conforme feedback do piloto.  
-3. Recrutar participantes (definir amostra por perfis).  
-4. Agendar entrevistas / sessões de observação / card sorting.  
-5. Aplicar questionário online (ampla distribuição).  
-6. Centralizar dados e começar análise.
-
-## Avaliação dos resultados
-- **Critério principal:** qualidade da coleta e do conjunto de instrumentos (clareza, relevância, completude).  
-- **Triangulação:** cruzar dados de questionários, entrevistas e observação para validar achados.  
-- **Indicadores de qualidade:** taxa de resposta, completude de entrevistas, consistência nas observações e riqueza das justificativas no card sorting.
+- **Uso:** Identificar ideias, expectativas e dificuldades dos usuários de forma livre.
