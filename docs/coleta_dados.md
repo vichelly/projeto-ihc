@@ -1,6 +1,6 @@
 # Coleta de Dados
 
-## 1. Que dados coletar?
+## Que dados coletar?
 - **Perfis dos usuários:** nível técnico, experiência com robótica/ROS2/MQTT, papel (pesquisador, técnico, aluno).  
 - **Necessidades e expectativas:** o que esperam da interface (calibração, controle, diagnóstico).  
 - **Dificuldades e erros recorrentes:** problemas na calibração, delays, comandos incorretos.  
@@ -8,12 +8,12 @@
 - **Dados de interação:** funções mais usadas, caminhos de navegação, tempo para completar tarefas.  
 - **Sugestões e desejos:** funcionalidades desejadas e prioridades de melhoria.
 
-## 2. De quem coletar dados?
+## De quem coletar dados?
 - **Usuários primários:** operadores e técnicos que usarão o ATENA no dia a dia, alem de pesquisadores, professores e estagiários que monitorem ou configurem o robô.
 - **Stakeholders técnicos:** pessoal de TI/manutenção e integradores ROS2/MQTT.  
 - **Usuários não especialistas (amostra):** para avaliar curva de aprendizado e usabilidade para iniciantes.
 
-## 3. Aspectos Éticos
+## Aspectos Éticos
 - **Consentimento informado:** explicar objetivo, uso dos dados e direito de desistir.  
 - **Privacidade e anonimato:** não divulgar dados pessoais; apresentar resultados anonimizados.  
 - **Uso restrito:** dados usados apenas para pesquisa/aperfeiçoamento do TCC.  
