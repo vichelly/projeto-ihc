@@ -35,10 +35,5 @@
 
 | **Tipo** | **Descrição** |
 |-----------|----------------|
-| **Exigências qualitativas** | - Interface deve ser intuitiva, com menus claros e feedback visual imediato.<br>- As funções críticas (ex: iniciar replicação, calibrar) devem exigir **confirmação do usuário**.<br>- Mensagens de erro devem ser **compreensíveis e informativas**.<br>- O sistema deve permitir **monitoramento visual** (modelo 3D e logs).<br>- Deve haver **consistência entre as telas** (configuração, diagnóstico, calibração). |
+| **Exigências qualitativas** | - Interface deve ser intuitiva, com menus claros e feedback visual imediato.<br>- As funções críticas (ex: iniciar replicação, calibrar) devem exigir confirmação do usuário.<br>- Mensagens de erro devem ser compreensíveis e informativas.<br>- O sistema deve permitir monitoramento visual (modelo 3D e logs).<br>- Deve haver consistência entre as telas (configuração, diagnóstico, calibração). |
 | **Exigências quantitativas** | - **Eficácia:** Usuário deve conseguir concluir tarefas principais (iniciar replicação, calibrar, exportar relatório) em até 2 minutos sem erro crítico.<br>- **Eficiência:** O número médio de cliques ou ações para cada tarefa deve ser menor que 5.<br>- **Satisfação:** Pelo menos 90% dos usuários devem avaliar a interface como “fácil de usar” ou superior em questionário de pós-teste. |
-
-
-
-
-
