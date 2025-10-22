@@ -92,9 +92,9 @@
 # Contexto de uso
 
 ## Ambiente de Utilização
-A interface do projeto ATENA consiste em um site de divulgação e venda do robô humanoide desenvolvido a partir do projeto original, oferecendo ao público uma plataforma informativa e interativa. Além de apresentar as características técnicas, funcionalidades e possibilidades de aquisição do robô, o site também permite que usuários que possuem acesso a uma unidade do ATENA realizem configurações básicas e diagnósticos remotos diretamente pela interface web.
-O sistema foi projetado para ser acessado de qualquer computador com conexão à internet, utilizando navegadores modernos sem a necessidade de instalação de software adicional. Essa abordagem visa garantir portabilidade, praticidade e acessibilidade, permitindo o uso tanto em contextos técnicos quanto comerciais.
-Os principais ambientes de utilização incluem instituições acadêmicas e laboratórios de pesquisa, onde o site poderá ser usado para divulgar o produto, fornecer informações técnicas detalhadas e, em alguns casos, realizar ajustes e calibrações remotas em robôs ATENA disponíveis para demonstração local. Além disso, o sistema poderá ser empregado em eventos científicos e feiras tecnológicas, facilitando a apresentação pública do robô e incentivando o interesse em sua aquisição ou integração em projetos educacionais.
+   A interface do projeto ATENA consiste em um site de divulgação e venda do robô humanoide desenvolvido a partir do projeto original, oferecendo ao público uma plataforma informativa e interativa. Além de apresentar as características técnicas, funcionalidades e possibilidades de aquisição do robô, o site também permite que usuários que possuem acesso a uma unidade do ATENA realizem configurações básicas e diagnósticos remotos diretamente pela interface web.
+O sistema foi projetado para ser acessado de qualquer computador com conexão à internet, utilizando navegadores modernos sem a necessidade de instalação de software adicional. Essa abordagem visa garantir portabilidade, praticidade e acessibilidade, permitindo o uso tanto em contextos técnicos quanto comerciais.<br><br>
+Os principais ambientes de utilização incluem instituições acadêmicas e laboratórios de pesquisa, onde o site poderá ser usado para divulgar o produto, fornecer informações técnicas detalhadas e, em alguns casos, realizar ajustes e calibrações remotas em robôs ATENA disponíveis para demonstração local. Além disso, o sistema poderá ser empregado em eventos científicos e feiras tecnológicas, facilitando a apresentação pública do robô e incentivando o interesse em sua aquisição ou integração em projetos educacionais.<br><br>
 Assim, o ambiente de utilização da interface equilibra dois objetivos principais: promover a divulgação e comercialização do robô ATENA, e oferecer ferramentas de controle e configuração para usuários que possuam o robô, sendo ele uma aquisição própria ou apenas uma amostra, garantindo uma experiência completa e integrada, tanto informativa quanto funcional.
 
 ---
@@ -102,19 +102,22 @@ Assim, o ambiente de utilização da interface equilibra dois objetivos principa
 ## Contextos Sociais, Econômicos e Culturais
 
 ### Sociais
-- Crescente preocupação com a **segurança do trabalhador**.  
-- Valorização de tecnologias que **reduzem riscos e substituem tarefas perigosas**.  
-- Interesse em **teleoperação** e maior aceitação da **colaboração humano-máquina**.  
+- Crescente presença da robótica e da automação em ambientes educacionais e de pesquisa.
+- O projeto ATENA permitindo que estudantes e pesquisadores interajam diretamente com conceitos avançados.
+- A interface web promove inclusão tecnológica, tornando a interação com o robô acessível mesmo para usuários com pouca experiência em programação.
+- Facilita a colaboração entre diferentes perfis de usuários em ambientes acadêmicos e científicos, indo desde iniciantes até especialistas.
 
 ### Econômicos
-- Empresas buscam **reduzir custos** com acidentes, seguros e afastamentos.  
-- Pressão competitiva por **inovação tecnológica**.  
-- Incentivos fiscais e políticas de apoio à **automação e digitalização industrial**.  
+- O site serve como vitrine para divulgação e comercialização do robô ATENA.
+- A integração das funções de controle e configuração reduz custos de suporte técnico e manutenção.
+- Amplia o alcance do produto, permitindo vendas para instituições e laboratórios sem necessidade de instalação física prévia.
+- Incentiva o crescimento do mercado de robótica educacional e científica, com foco em soluções acessíveis e sustentáveis. 
 
 ### Culturais
-- Cultura industrial conservadora em alguns setores, com adoção gradual de novas tecnologias.  
-- Crescente **cultura maker e open source** em pesquisa e universidades.  
-- Interesse da sociedade em **tecnologias emergentes de robótica** como solução de futuro.  
+- Baseia-se na cultura maker e nos princípios open-source, que valorizam o compartilhamento e a colaboração.
+- Estimula a curiosidade científica e o aprendizado prático por meio da experimentação e da interação direta com o robô.
+- Aproxima a robótica da realidade educacional, tornando-a parte da cultura de inovação presente em universidades e centros de pesquisa.
+- Reforça valores de cooperação, criatividade e desenvolvimento tecnológico coletivo.
 
 ---
 
