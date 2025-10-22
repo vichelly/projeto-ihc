@@ -2,39 +2,21 @@
 
 > **_NOTE:_**: A equipe deve descrever as funcionalidades mais importantes da interface/produto. A equipe deve modelar pelo menos 1 HTA, 1 GOMS e 1 CTT (de pelo menos 4 funcionalidades diferentes). Cada diagrama deve ter um texto explicando a funcionalidade.
 
-# Tela Inicial / Monitoramento
-## Iniciar Replicação de Movimentos
+# Tela Inicial 
+## Pagina inicial do ATENA
 ### HTA
-O operador precisa iniciar a replicação dos movimentos humanos pelo robô. Essa tarefa envolve verificar conexões, ativar o comando e acompanhar o status do sistema.
-
-<img width="1050" height="446" alt="image" src="https://github.com/user-attachments/assets/f695ffd8-3d65-4ec3-8e29-69bd281a1df7" />
 
 ### GOMS
-**Meta:** Iniciar replicação dos movimentos do operador.<br><br>
-**Operadores:**<br>
-- Verificar status de conexão (ROS2, MQTT, energia).<br>
-- Localizar e clicar no botão "Iniciar Replicação".<br>
-- Confirmar ação em mensagem de confirmação.<br>
-- Acompanhar logs e stream de vídeo.<br>
-
-**Método:**<br>
-1. Checar conexões.<br>
-2. Selecionar botão "Iniciar Replicação".<br>
-3. Confirmar inicialização.<br>
-4. Monitorar execução.<br>
-
-**Seletores:**<br>
-- Se conexões estão ativas → prosseguir.<br>
-- Se conexões falham → exibir mensagem de erro.<br>
-
-Resumo: Permite ao usuário acionar a replicação verificando conexões, confirmando a inicialização e acompanhando a execução.<br>
 
 ### CTT
 
-<img width="1113" height="613" alt="image" src="https://github.com/user-attachments/assets/3df8c3a3-a188-4576-924d-594841656f69" />
+# Tela de Venda 
+## Venda do robô
+### HTA
 
-**Legenda CTT:**<br>
-<img width="399" height="344" alt="image" src="https://github.com/user-attachments/assets/b476b39b-1338-43a7-96e9-d2e6d1914cb4" />
+### GOMS
+
+### CTT
 
 # Tela de Diagnóstico / Comunicação
 ## Diagnóstico e Comunicação
@@ -71,7 +53,7 @@ Resumo: O usuário entra na tela de diagnóstico, checa conexões, analisa logs,
 **Legenda CTT:**<br>
 <img width="399" height="344" alt="image" src="https://github.com/user-attachments/assets/b476b39b-1338-43a7-96e9-d2e6d1914cb4" />
 
-# Tela de Controle Manual 
+# Tela de Controle Manual
 ## Enviar Comandos Manuais para Juntas
 ### HTA
 O usuário seleciona a junta, define o valor desejado (slider ou numérico) e envia o comando para execução imediata.
@@ -100,41 +82,6 @@ Resumo: Dá ao usuário a possibilidade de escolher uma junta, definir valores e
 ### CTT
 
 <img width="1155" height="386" alt="image" src="https://github.com/user-attachments/assets/7d859570-dd77-417a-a062-b6eb2667e98d" />
-
-**Legenda CTT:**<br>
-<img width="399" height="344" alt="image" src="https://github.com/user-attachments/assets/b476b39b-1338-43a7-96e9-d2e6d1914cb4" />
-
-# Tela de Configurações / Calibração
-## Configurações e Calibração
-### HTA
-Permite ajustar parâmetros técnicos e calibrar o robô para maior precisão, salvando as configurações personalizadas.  
-
-<img width="1280" height="596" alt="image" src="https://github.com/user-attachments/assets/6fecfa06-84f3-4ce4-a307-96b9b8239700" />
-
-### GOMS
-**Meta:** Ajustar parâmetros técnicos e calibrar o robô.<br><br>
-**Operadores:**<br>
-- Clicar no ícone de “Configurações”.<br>
-- Mover sliders (velocidade, amplitude, delay)<br>
-- Selecionar opção “Calibrar Braços”<br>
-- Clicar em “Salvar Perfil”<br>
-
-**Método:**<br>
-1. Abrir menu de Configurações.<br>
-2. Ajustar sliders conforme desejado.<br>
-3. Iniciar calibração dos braços.<br>
-4. Confirmar ou repetir calibração.<br>
-5. Salvar perfil com parâmetros definidos.
-
-**Seletores:**<br>
-- Se calibração aceita → salvar perfil.<br>
-- Se calibração falha → repetir ajuste.<br>
-
-Resumo: O usuário acessa a tela, ajusta parâmetros via sliders, calibra braços e salva as preferências.<br>
-
-### CTT
-
-<img width="706" height="569" alt="image" src="https://github.com/user-attachments/assets/9c8dc36e-8c66-4e81-adb5-f409e19d91c6" />
 
 **Legenda CTT:**<br>
 <img width="399" height="344" alt="image" src="https://github.com/user-attachments/assets/b476b39b-1338-43a7-96e9-d2e6d1914cb4" />
