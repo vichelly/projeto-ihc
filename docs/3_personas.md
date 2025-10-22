@@ -6,9 +6,9 @@
 
 1. **Pedro Henrique Gomez**  
 - *Quem é:* Empresário atuante em uma ramo de linha de montagem.
-- *Características demográficas:*
-    Idade: 43 anos.
-    Formação em administração, engenharia da produção, engenharia de segurança ou áreas correlatas.
+- *Características demográficas:*<br>
+    Idade: 43 anos.<br>
+    Formação em administração, engenharia da produção, engenharia de segurança ou áreas correlatas.<br>
     Proprietário de empresas de grande porte.
 - *Características comportamentais:*
     Preocupado com segurança dos trabalhadores.
@@ -25,9 +25,9 @@
 
 2. **Klein Morreti**
 - *Quem é:* Pesquisador da area de tecnologia.
-- *Características demográficas:*
-    Idade: 34 anos.
-    Formação em engenharia elétrica, mecatrônica e ciência da computação.
+- *Características demográficas:*<br>
+    Idade: 34 anos.<br>
+    Formação em engenharia elétrica, mecatrônica e ciência da computação.<br>
     Atua em laboratórios de pesquisa.
 - *Características comportamentais:*
     Interesse em experimentar novas tecnologias.
@@ -43,9 +43,9 @@
 
   3. **Prof. Dr. Renato Figueira Castro**
 - *Quem é:* Professor da area de robotica.
-- *Características demográficas:*
-    Idade: 35 anos.
-    Formação em engenharia elétrica, mecatrônica e ciência da computação.
+- *Características demográficas:*<br>
+    Idade: 35 anos.<br>
+    Formação em engenharia elétrica, mecatrônica e ciência da computação.<br>
     Atua em universidades, laboratórios de pesquisa ou startups de robótica.
 - *Características comportamentais:*
     Interesse em estudar e ensinar tecnologias inovadoras.
@@ -60,8 +60,8 @@
 
   4. **Gabriel Silva Monteiro**
 - *Quem é:* Estudante de engenharia mecatronica.
-- *Características demográficas:*
-    Idade: 22 anos.
+- *Características demográficas:*<br>
+    Idade: 22 anos.<br>
     Cursando engenharia mecatronica.
 - *Características comportamentais:*
     Interesse em aprender mais sobre maquinas em um geral.
@@ -93,7 +93,7 @@
 
 ## Ambiente de Utilização
 O ATENA será utilizado em três principais contextos:  
-- **Indústria:** fábricas, linhas de montagem, áreas de manutenção e ambientes insalubres ou de risco (químicos, alta temperatura, radioatividade, mineração etc.).  
+- **Empresas:** tarefas simples, como digitação a distancia para pessoas com limitações, manipulação de objetos pequenos e leves.  
 - **Acadêmico/Pesquisa:** universidades, centros de robótica, hubs tecnológicos e eventos científicos.  
 - **Demonstração/Exposições:** feiras de tecnologia, workshops corporativos e eventos de inovação.  
 
