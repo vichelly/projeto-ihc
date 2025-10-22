@@ -92,10 +92,10 @@
 # Contexto de uso
 
 ## Ambiente de Utilização
-O ATENA será utilizado em três principais contextos:  
-- **Empresas:** tarefas simples, como digitação a distancia para pessoas com limitações, manipulação de objetos pequenos e leves.  
-- **Acadêmico/Pesquisa:** universidades, centros de robótica, hubs tecnológicos e eventos científicos.  
-- **Demonstração/Exposições:** feiras de tecnologia, workshops corporativos e eventos de inovação.  
+A interface do projeto ATENA consiste em um site de divulgação e venda do robô humanoide desenvolvido a partir do projeto original, oferecendo ao público uma plataforma informativa e interativa. Além de apresentar as características técnicas, funcionalidades e possibilidades de aquisição do robô, o site também permite que usuários que possuem acesso a uma unidade do ATENA realizem configurações básicas e diagnósticos remotos diretamente pela interface web.
+O sistema foi projetado para ser acessado de qualquer computador com conexão à internet, utilizando navegadores modernos sem a necessidade de instalação de software adicional. Essa abordagem visa garantir portabilidade, praticidade e acessibilidade, permitindo o uso tanto em contextos técnicos quanto comerciais.
+Os principais ambientes de utilização incluem instituições acadêmicas e laboratórios de pesquisa, onde o site poderá ser usado para divulgar o produto, fornecer informações técnicas detalhadas e, em alguns casos, realizar ajustes e calibrações remotas em robôs ATENA disponíveis para demonstração local. Além disso, o sistema poderá ser empregado em eventos científicos e feiras tecnológicas, facilitando a apresentação pública do robô e incentivando o interesse em sua aquisição ou integração em projetos educacionais.
+Assim, o ambiente de utilização da interface equilibra dois objetivos principais: promover a divulgação e comercialização do robô ATENA, e oferecer ferramentas de controle e configuração para usuários que possuam o robô, sendo ele uma aquisição própria ou apenas uma amostra, garantindo uma experiência completa e integrada, tanto informativa quanto funcional.
 
 ---
 
