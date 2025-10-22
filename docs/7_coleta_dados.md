@@ -2,16 +2,16 @@
 
 ## Que dados coletar?
 - **Perfis dos usuários:** nível técnico, experiência com robótica/ROS2/MQTT, papel (pesquisador, técnico, aluno).  
-- **Necessidades e expectativas:** o que esperam da interface (calibração, controle, diagnóstico).  
-- **Dificuldades e erros recorrentes:** problemas na calibração, delays, comandos incorretos.  
+- **Necessidades e expectativas:** o que esperam da interface.  
+- **Dificuldades e erros recorrentes:** problemas de entendimento sobre as funções do robõ, efetuamento da venda, calibração falha, delays em comandos remotos enviados ao robô, comandos incorretos.  
 - **Feedback sobre usabilidade:** intuitividade, organização dos menus, compreensão dos indicadores.  
 - **Dados de interação:** funções mais usadas, caminhos de navegação, tempo para completar tarefas.  
 - **Sugestões e desejos:** funcionalidades desejadas e prioridades de melhoria.
 
 ## De quem coletar dados?
-- **Usuários primários:** operadores e técnicos que usarão o ATENA no dia a dia, alem de pesquisadores, professores e estagiários que monitorem ou configurem o robô.
+- **Usuários primários:** operadores e técnicos que usarão o ATENA no dia a dia, alem de pesquisadores e professores para demonstrações em academicas em eventos ou em sala de aula.
 - **Stakeholders técnicos:** pessoal de TI/manutenção e integradores ROS2/MQTT.  
-- **Usuários não especialistas (amostra):** para avaliar curva de aprendizado e usabilidade para iniciantes.
+- **Usuários não especialistas (amostra):** para avaliar curva de aprendizado, compreensão do site, e usabilidade para iniciantes.
 
 ## Aspectos Éticos
 - **Consentimento informado:** explicar objetivo, uso dos dados e direito de desistir.  
