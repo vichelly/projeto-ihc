@@ -122,19 +122,14 @@ Assim, o ambiente de utilização da interface equilibra dois objetivos principa
 ---
 
 ## Informações que o Sistema Deve Guardar Antes da Interação  
-- Condições do ambiente (nível de risco, restrições de operação, protocolos de segurança).  
+- Condições do ambiente (estoque para vendas, restrições de operação, protocolos de segurança).  
 - Histórico de interações e calibrações personalizadas.  
 - Limitações do robô (alcance, carga máxima, áreas proibidas).  
-- Objetivo da interação (treinamento, demonstração, operação em linha de montagem).  
+- Objetivo da interação (compra, configurações basícas, extração de diagnósticos).  
 
 ---
 
 ## 4. Situações Típicas Durante a Interação
-
-### Em Ambientes Industriais
-- Linhas de produção em funcionamento.  
-- Operadores acompanhando teleoperação de tarefas arriscadas.  
-- Sensores e sistemas de segurança monitorando o ambiente.  
 
 ### Em Ambientes Acadêmicos
 - Aulas práticas e demonstrações de robótica.  
@@ -149,8 +144,7 @@ Assim, o ambiente de utilização da interface equilibra dois objetivos principa
 ---
 
 ## 5. Resumo
-O robô ATENA opera em ambientes **industriais, acadêmicos e demonstrativos**, sempre em contextos onde a **segurança, a inovação e a eficiência** são fatores centrais.  
-O sistema precisa se adaptar ao às condições do ambiente e ter noção de suas próprias limitações, garantindo **confiabilidade e usabilidade** em cada interação.  
+O robô ATENA opera principalmente em ambientes **acadêmicos e demonstrativos**, sempre em contextos onde a **inovação e a eficiência** são fatores centrais.  
 
 # Jornada do usuário
 
