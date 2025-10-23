@@ -122,108 +122,86 @@ Assim, o ambiente de utilização da interface equilibra dois objetivos principa
 ---
 
 ## Informações que o Sistema Deve Guardar Antes da Interação  
-- Condições do ambiente (estoque para vendas, restrições de operação, protocolos de segurança).  
-- Histórico de interações e calibrações personalizadas.  
-- Limitações do robô (alcance, carga máxima, áreas proibidas).  
-- Objetivo da interação (compra, configurações basícas, extração de diagnósticos).  
+- Estoque e disponibilidade dos robôs e componentes para venda.
+- Restrições de operação e protocolos de segurança do robô.
+- Objetivo principal da interação (compra, configuração remota, diagnóstico).
 
 ---
 
 ## 4. Situações Típicas Durante a Interação
 
-### Em Ambientes Acadêmicos
-- Aulas práticas e demonstrações de robótica.  
-- Pesquisadores coletando dados para validação de algoritmos.  
-- Integração com softwares de controle, visão computacional e machine learning.  
+### Em Ambientes Acadêmicos e laboratórios
+- Professores e alunos acessam o site para conhecer o robô e suas funcionalidades.
+- Pesquisadores utilizam a área de configuração online para ajustar parâmetros do robô em laboratório.
+- Usuários realizam o acompanhamento de diagnósticos e logs de funcionamento para fins de pesquisa. 
 
 ### Em Feiras e Eventos
-- Robô como **showcase** de inovação para investidores e clientes.  
-- Demonstração de teleoperação em tempo real.  
-- Interação direta com o público para divulgação da tecnologia.  
+- O site é utilizado como vitrine digital, exibindo especificações técnicas e vídeos demonstrativos.
+- Visitantes interagem com o sistema para simular comandos e visualizar respostas do robô em tempo real.
+- Possibilidade de registro de interesse ou compra direta através da interface.
 
 ---
 
 ## 5. Resumo
-O robô ATENA opera principalmente em ambientes **acadêmicos e demonstrativos**, sempre em contextos onde a **inovação e a eficiência** são fatores centrais.  
+A interface do sistema ATENA atua como um ponto central de divulgação, venda e interação técnica com o robô. Seu uso é voltado principalmente para instituições acadêmicas, laboratórios de pesquisa e eventos de tecnologia, permitindo tanto a divugação de venda do produto quanto a operação e diagnóstico remoto de unidades já instaladas.  
 
 # Jornada do usuário
 
 ## Narrativa
-Pedro, proprietário de uma fábrica de montagem, quer reduzir a exposição de colaboradores a tarefas perigosas e diminuir custos com acidentes.  
-Ele encontra o ATENA como solução de teleoperação baseada em visão computacional, que permite que um operador remoto realize tarefas manuais no chão de fábrica através de um robô humanoide.  
-Pedro valida a solução em uma linha de produção, contrata o sistema e, com isso, melhora a segurança, reduz paradas e controla custos.  
+O Prof. Dr. Renato Figueira Castro, docente e pesquisador na área de robótica, acessa o site do robô ATENA em busca de novas ferramentas para suas aulas e projetos.
+Ao explorar a interface, ele encontra informações detalhadas sobre o robô e vídeos demonstrativos. Interessado, decide realizar a compra do robô ATENA para usar de material em suas aulas.<br>
+Após adquirir o robô, Renato utiliza o próprio site para acessar a área de controle e diagnóstico, onde realiza calibrações, monitora sensores e testa comandos remotamente.
+Durante as aulas, ele emprega essas funções para demonstrar conceitos de teleoperação e integração homem-robô aos alunos. Por fim, o professor retorna periodicamente ao portal para baixar atualizações, consultar o suporte técnico e enviar feedbacks, consolidando o site como uma ferramenta essencial de divulgação, configuração e acompanhamento do robô ATENA.
 
 ---
 
 ## Etapas da Jornada
 
-### 1. Trigger / Descoberta
-- **Ação do usuário:** Pedro toma conhecimento do ATENA em feiras, artigos ou por indicação.  
-- **O que acontece:** solicita contato comercial, recebe material técnico e convite para demonstração.  
+### 1. Descoberta
+- **Ação do usuário:** O professor toma conhecimento do robô ATENA por meio de uma conferência acadêmica e decide acessar o site para saber mais..  
+- **O que acontece:** Ao entrar na página inicial, ele encontra uma interface atrativa que destaca o robô, seus diferenciais e aplicações acadêmicas. O design limpo e informativo facilita a compreensão inicial do produto.  
 
-### 2. Contato Comercial / Pré-venda
-- **Ação do usuário:** conversa com representantes para entender aplicabilidade.  
-- **O que acontece:** levantamento de dados do ambiente e proposta inicial de PoC.  
+### 2. Exploração
+- **Ação do usuário:** Renato navega pelo site explorando as seções de especificações técnicas e vídeos de demonstração.
+- **O que acontece:** O sistema exibe informações organizadas com recursos multimídia, possibilitando uma visão clara do potencial do robô.
+  
+### 3. Decisão e Aquisição
+- **Ação do usuário:** Após avaliar os benefícios, o professor realiza a compra do robô ATENA.  
+- **O que acontece:** O sistema registra a solicitação de compra e envia uma resposta automática com informações adicionais. Posteriormente, a equipe comercial entra em contato para finalizar a compra.  
 
-### 3. Demonstração
-- **Ação do usuário:** participa de uma apresentação com exemplos de uso.  
-- **O que acontece:** vê o robô replicando movimentos em tempo real, com segurança e teleoperação.  
+### 4. Uso e Experimentação
+- **Ação do usuário:** Com o robô já adquirido, Renato conecta o robô a sua maquina, acessa a área de configurções do site, e começa a realizar testes de calibração e controle manual.  
+- **O que acontece:** A interface responde em tempo real, exibindo dados de diagnóstico, status de sensores e logs de eventos. Ele consegue ajustar parâmetros e visualizar o comportamento do robô de forma segura e intuitiva. 
 
-### 4. Prova de Conceito (PoC)
-- **Ação do usuário:** autoriza teste em ambiente controlado da fábrica.  
-- **O que acontece:** instalação, calibração, operação supervisionada e coleta de métricas.  
-
-### 5. Decisão de Compra / Contratação
-- **Ação do usuário:** avalia resultados da PoC com gestores e decide contratar.  
-- **O que acontece:** assina contrato com definição de SLA, suporte e treinamento.  
-
-### 6. Instalação e Integração
-- **Ação do usuário:** libera espaço e recursos para instalação.  
-- **O que acontece:** integração com a linha de montagem e provisionamento de usuários.  
-
-### 7. Calibração e Treinamento
-- **Ação do usuário:** operadores passam por treinamento na interface.  
-- **O que acontece:** sistema guia calibração e simulações até atingir métricas aceitáveis.  
-
-### 8. Operação Diária
-- **Início da tarefa:** operador inicia sessão, escolhe perfil de tarefa.  
-- **Desenvolvimento:** câmera detecta movimentos → robô replica → operador recebe feedback em tempo real.  
-- **Finalização:** operador confirma conclusão e o sistema gera relatório.  
-
-### 9. Monitoramento e Ajustes
-- **Ação do usuário:** gerente analisa relatórios de desempenho e segurança.  
-- **O que acontece:** ajustes de calibração e melhorias contínuas no uso.  
-
-### 10. Manutenção e Suporte
-- **Ação do usuário:** agenda manutenção preventiva ou solicita suporte.  
-- **O que acontece:** sistema envia logs e atualizações, equipe técnica realiza reparos.  
-
-### 11. Escalonamento ou Encerramento
-- **Ação do usuário:** decide expandir uso para outras linhas ou encerrar contrato.  
-- **O que acontece:** solução é escalada para múltiplas áreas ou descomissionada.  
+### 5. Suporte
+- **Ação do usuário:** Ao encontrar uma dúvida técnica, Renato utiliza o chat de suporte disponível no site e envia feedbacks sobre possíveis melhorias.  
+- **O que acontece:** A equipe de suporte recebe a sugestão coloca em sua fila de análise para prossiveis melhorias futuras. O professor continua acessando o site para possiveis novidades, mantendo-se engajado com o ecossistema do robô ATENA.  
 
 ---
 
 ## Resumo da Jornada
-- **Início:** gatilho de negócio (acidente, auditoria ou busca por redução de custos).  
-- **Desenvolvimento:** PoC → contrato → instalação → treinamento → operação diária → análise de métricas.  
-- **Término:** conclusão da tarefa operacional ou encerramento/renovação do contrato.  
-
+- **Início:** interesse do professor Renato em encontrar soluções inovadoras para ensino e pesquisa em robótica..  
+- **Desenvolvimento:** descoberta do site ATENA → exploração das funcionalidades → solicitação de compra → aquisição ATENA → acesso à área de controle → configuração e testes do robô.  
+- **Término:** utilização contínua do robô em aulas e pesquisas, com acompanhamento das possiveis atualizações da plataforma.
+  
 ---
 
 ## Pontos de Falha e Mitigações
-- **Latência de rede:** mitigada com redes dedicadas e indicadores visuais.  
-- **Falha de calibração:** mitigada com wizard de calibração e simulação prévia.  
-- **Resistência interna:** mitigada com treinamento prático e pilotos demonstrativos.  
-- **Integração difícil:** mitigada com APIs e suporte técnico especializado.  
+- **Problemas de conexão com o robô durante o controle remoto:**<br>
+  Mitigação: implementação de mensagens de erro claras e reconexão automática; manter logs acessíveis para diagnóstico rápido..  
+- **Dificuldade de acesso ao site ou lentidão em ambientes com internet limitada:**<br>
+  Mitigação: otimização da interface para conexões instáveis e disponibilização de uma versão simplificada para configurações básicas.
+- **Erros de calibração causados por inserção incorreta de parâmetros:**<br>
+  Mitigação: uso de sliders e validações automáticas antes da execução; exibir pré-visualização do movimento no modelo 3D.  
+- **Problemas de compatibilidade com diferentes navegadores ou dispositivos:**<br>
+  Mitigação: realizar testes multiplataforma e aplicar design responsivo, garantindo acesso consistente em PCs, tablets e notebooks.  
 
 ---
 
 ## Funcionalidades Críticas da Interface
-- Onboarding com checklist de segurança.  
-- Wizard de calibração passo a passo.  
-- Tela de teleoperação com visão ao vivo + overlay da pose.  
-- Botão de emergência (E-STOP físico e virtual).  
-- Gravação e playback de sessões.  
-- Dashboards de KPIs (segurança, tempo, custos).  
-- Exportação de logs para compliance.  
+- Controle Manual do Robô.  
+- Diagnóstico e Comunicação.  
+- Área de Venda.
+- Divulgação  
+- Interface de Calibração.  
+- Suporte.
