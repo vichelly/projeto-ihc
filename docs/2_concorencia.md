@@ -59,8 +59,7 @@
 - **Shadow** é referência em manipulação fina, mas inacessível para a maioria dos usuários comuns.  
 - **Poppy** abre espaço em pesquisa e educação com baixo custo e modularidade.  
 - **Kinova Gen3** é forte em aplicações de saúde e pesquisa, equilibrando robustez e integração.  
-- O **ATENA** pode se destacar ao oferecer **humanoide acessível, modular, com teleoperação via visão computacional e integração ROS2 + MQTT**, atingindo um público que hoje fica entre o open-source experimental e os sistemas comerciais caros.
-
+- A interface do **ATENA** pode se destacar ao oferecer um produto que se trata de **humanoide acessível, modular, com teleoperação via visão computacional e integração ROS2 + MQTT**, atingindo um público que hoje fica entre o open-source experimental e os sistemas comerciais caros. Alem disto, a interface ainda possibilita realizar configurações, calibragens e extraçção de relatórios do robô, sem necessidade de fazer cadastro, apenas necessitando ter um robô ATENA conectado ao computador.
 
 ---
 > **_NOTE:_**: O fator mais importante desta entrega é a equipe conseguir identificar e documentar prints de telas de interfaces concorrentes (ou interfaces representativas para o público alvo). Esses prints serão usados na fase de caracterização de padrões, affordances, heurísticas, etc. CONCORRENTE NÃO É IDÊNTICO E SIM ATUANDO NA MESMA ÁREA
