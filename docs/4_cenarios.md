@@ -15,7 +15,7 @@ Quando um visitante encontra o site do projeto em repositórios abertos, muitas 
 5. Que tipo de informações ou seções aumentariam o engajamento de visitantes e instituições?
 
 **Refinamento do Cenário**
-
+<br>
 A interface centraliza todas as informações e materiais de divulgação do robô em um único ambiente digital. Dessa forma, pesquisadores, estudantes e interessados podem visualizar vídeos, especificações e demonstrações sem depender de múltiplas fontes, tornando o acesso mais direto e confiável.
 ---
 
@@ -32,7 +32,7 @@ Além disso, muitos sites de projetos robóticos apresentam apenas artigos acad�
 3. Há necessidade de criar contas ou enviar e-mails manuais para obter informações básicas?
 4. Quais obstáculos fazem o comprador desistir da aquisição?
 5. Como um fluxo simplificado de compra poderia aumentar a taxa de conversão?
-
+<br>
 **Refinamento do Cenário**
 A interface elimina intermediários no processo de aquisição, permitindo que o usuário visualize valores, especificações e condições de compra de forma imediata. Isso reduz atrasos e torna o processo mais simples e acessível.
 ---
@@ -50,7 +50,7 @@ Quando o robô perde conexão com algum componente, o operador precisa acessar m
 3. Que tipo de informação crítica é difícil de visualizar em formato textual?
 4. O processo de diagnóstico atual é acessível a operadores sem conhecimento técnico profundo?
 5. Quais ganhos operacionais surgiriam com uma interface gráfica centralizada?
-
+<br>
 **Refinamento do Cenário**
 A interface unifica o monitoramento e a comunicação com o robô em uma tela intuitiva, oferecendo feedback visual em tempo real sobre conexões, falhas e status operacional. Assim, elimina a necessidade de softwares técnicos complexos, facilitando o uso até para usuários iniciantes.
 
@@ -69,7 +69,7 @@ Em muitos casos, o operador precisa alterar parâmetros manualmente em arquivos 
 3. Há retorno visual sobre a execução dos comandos enviados?
 4. Como erros manuais impactam o desempenho e a segurança do robô?
 5. Que elementos visuais poderiam tornar o controle mais intuitivo e confiável?
-
+<br>
 **Refinamento do Cenário**
 A interface transforma o controle do robô em uma experiência interativa e visual, substituindo comandos de código por sliders e botões. Isso aumenta a acessibilidade, reduz erros e permite um controle mais preciso e rápido dos movimentos, sem exigir conhecimento técnico avançado.
 
