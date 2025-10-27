@@ -6,9 +6,29 @@
 ## Pagina inicial do ATENA
 ### HTA
 Pagina inicial do site sobre o robô ATENA
+
 <img width="1275" height="637" alt="image" src="https://github.com/user-attachments/assets/4ef67c98-a839-4ace-899c-d208fa77406e" />
 
 ### GOMS
+
+**Meta:** Explorar informações sobre o robô e enviar sugestões.<br><br>
+**Operadores:**<br>
+- Clicar em abas ou menus.<br>
+- Assistir vídeos e rolar página.<br>
+- Preencher campo de sugestão.<br>
+- Clicar em botão “Enviar”.<br>
+
+**Método:**<br>
+1. Acessar o site.<br>
+2. Explorar vídeos, imagens e descrições.<br>
+3. Acessar a seção “Sobre o Projeto”.<br>
+4. Enviar sugestão de melhoria.<br>
+
+**Seletores:**<br>
+- Se o usuário deseja apenas conhecer → encerra após etapa 3.<br>
+- Se o usuário deseja contribuir → prossegue para etapa 4.<br>
+
+Resumo: O visitante entra na página inicial, navega pelos materiais de divulgação, conhece as funcionalidades do robô e, caso queira, envia sugestões diretamente pelo formulário.<br>
 
 ### CTT
 
@@ -16,9 +36,29 @@ Pagina inicial do site sobre o robô ATENA
 ## Venda do robô
 ### HTA
 Possibilita a compra de um robô ATENA
+
 <img width="1267" height="455" alt="image" src="https://github.com/user-attachments/assets/84ea81f3-1262-4a62-b269-8ff850d52eed" />
 
 ### GOMS
+
+**Meta:** Adquirir um robô ATENA pelo site.<br><br>
+**Operadores:**<br>
+- Clicar em botão de compra<br>
+- Selecionar acessórios opcionais<br>
+- Preencher informações de pagamento.<br>
+- Clicar em confirmar.<br>
+
+**Método:**<br>
+1. Acessar a seção de compra.<br>
+2. Escolher acessórios opcionais.<br>
+3. Inserir dados de pagamento.<br>
+4. Confirmar a compra e verificar o recebimento da confirmação.<br>
+
+**Seletores:**<br>
+- Se pagamento autorizado → exibe mensagem de sucesso.<br>
+- Se erro no pagamento → exibe alerta e permite tentar novamente.<br>
+
+Resumo: O usuário acessa a tela de venda, escolhe a versão do robô, insere seus dados de pagamento e finaliza a compra. O sistema gera uma confirmação visual e envia um e-mail automático com os detalhes do pedido.<br>
 
 ### CTT
 
