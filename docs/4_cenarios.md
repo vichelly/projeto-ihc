@@ -4,7 +4,7 @@
 
 **Atores:** Estudantes, pesquisadores e curiosos por robótica.
 
-Atualmente, pesquisadores e instituições interessadas em robôs humanoides [1] precisam buscar informações em diversas fontes fragmentadas — vídeos no YouTube, repositórios técnicos e artigos dispersos [2]. A falta de um portal centralizado com conteúdo atualizado e acessível dificulta a compreensão das capacidades do robô [3].<br>
+Atualmente, pesquisadores e instituições interessadas em robôs humanoides [1] precisam buscar informações em diversas fontes fragmentadas, como vídeos no YouTube, repositórios técnicos e artigos dispersos [2]. A falta de um portal centralizado com conteúdo atualizado e acessível dificulta a compreensão das capacidades do robô [3].<br>
 Quando um visitante encontra o site do projeto em repositórios abertos, muitas vezes não há vídeos demonstrativos claros sobre o funcionamento real do robô [4]. A ausência de imagens e seções explicativas sobre objetivos e diferenciais faz com que o público leigo não compreenda o potencial da tecnologia [5]. Assim, potenciais parceiros ou financiadores acabam desinteressados, pois o projeto não comunica seu valor de forma atrativa e centralizada [6].
 
 **Questões de Refinamento**
