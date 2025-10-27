@@ -5,6 +5,8 @@
 # Tela Inicial 
 ## Pagina inicial do ATENA
 ### HTA
+Pagina inicial do site sobre o robô ATENA
+<img width="1275" height="637" alt="image" src="https://github.com/user-attachments/assets/4ef67c98-a839-4ace-899c-d208fa77406e" />
 
 ### GOMS
 
@@ -13,6 +15,8 @@
 # Tela de Venda 
 ## Venda do robô
 ### HTA
+Possibilita a compra de um robô ATENA
+<img width="1267" height="455" alt="image" src="https://github.com/user-attachments/assets/84ea81f3-1262-4a62-b269-8ff850d52eed" />
 
 ### GOMS
 
