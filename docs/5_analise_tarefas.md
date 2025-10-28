@@ -32,6 +32,11 @@ Resumo: O visitante entra na página inicial, navega pelos materiais de divulga�
 
 ### CTT
 
+<img width="675" height="323" alt="image" src="https://github.com/user-attachments/assets/ac4328e7-6a8d-4b2b-9b51-1d1daa6ed2de" />
+
+**Legenda CTT:**<br>
+<img width="399" height="344" alt="image" src="https://github.com/user-attachments/assets/b476b39b-1338-43a7-96e9-d2e6d1914cb4" />
+
 # Tela de Venda 
 ## Venda do robô
 ### HTA
@@ -61,6 +66,11 @@ Possibilita a compra de um robô ATENA
 Resumo: O usuário acessa a tela de venda, escolhe a versão do robô, insere seus dados de pagamento e finaliza a compra. O sistema gera uma confirmação visual e envia um e-mail automático com os detalhes do pedido.<br>
 
 ### CTT
+
+<img width="658" height="390" alt="image" src="https://github.com/user-attachments/assets/2acd0617-95b9-4d1c-8443-ad8dedf23a8a" />
+
+**Legenda CTT:**<br>
+<img width="399" height="344" alt="image" src="https://github.com/user-attachments/assets/b476b39b-1338-43a7-96e9-d2e6d1914cb4" />
 
 # Tela de Diagnóstico / Comunicação
 ## Diagnóstico e Comunicação
