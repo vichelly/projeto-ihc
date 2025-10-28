@@ -23,7 +23,7 @@
 
 # Ferramentas de Coleta
 
-## 1. [Questionario](https://form.typeform.com/to/OaNexyht)
+## 1. [Questionario](https://forms.gle/Z2ycE26RCQwBuyGJ8)
 - **Formato:** Google Forms.  
 - **Uso:** captar percepções em escala, priorizar itens de usabilidade e medir satisfação.  
 
