@@ -27,7 +27,7 @@
 - **Formato:** Google Forms.  
 - **Uso:** captar percepções em escala, priorizar itens de usabilidade e medir satisfação.  
 
-## 2. [Entrevista](https://form.typeform.com/to/vdxNjMkC) 
+## 2. [Entrevista](https://forms.gle/gdT93gDStwJvngGd6) 
 - **Formato:** Google Forms, porem pode ser feito presencialmente ou por meio de uma chamada de video.
 - **Uso:** aprofundar problemas práticos, entender rotina de uso e contextos específicos.
 
