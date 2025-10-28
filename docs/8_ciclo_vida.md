@@ -12,10 +12,10 @@
 
 | **Item** | **Descrição** |
 |-----------|----------------|
-| **Contexto de uso** | A interface poderá ser usada por qualquer pessoa, seja um entusiasta da robótica ou alguem que apenas acabou achando interressante a proposta, com o objetivo de descobrir mais sobre o robô ATENA ou até mesmo de adiquirir um para si. A interface tambem será utilizada em laboratórios de robótica e pesquisa, por alunos e pesquisadores responsáveis por operar o robô humanoide ATENA. O uso ocorre em ambiente controlado, com equipamentos de computação conectados ao robô via rede local. O objetivo é monitorar, calibrar e controlar os movimentos do robô, garantindo segurança e precisão. |
-| **Nome da referência** | Norma ISO 9241-210: Ergonomia da interação humano-sistema |
-| **Descrição da referência e importância** | A ISO 9241-210 fornece diretrizes para o design centrado no usuário, promovendo interfaces que priorizam usabilidade, eficiência e satisfação. É essencial para garantir que o sistema ATENA seja acessível, claro e seguro para operadores de diferentes níveis de experiência. |
-| **Link de referência** | [ISO 9241-210 (Ergonomics of Human-System Interaction)](https://www.iso.org/standard/77520.html) |
+| **Contexto de uso** | A interface do projeto ATENA consiste em um site de divulgação e venda do robô humanoide desenvolvido a partir do projeto original, oferecendo ao público uma plataforma informativa e interativa. Além de apresentar as características técnicas, funcionalidades e possibilidades de aquisição do robô, o site também permite que usuários que possuem acesso a uma unidade do ATENA realizem configurações básicas e diagnósticos remotos diretamente pela interface web. O sistema foi projetado para ser acessado de qualquer computador com conexão à internet, utilizando navegadores modernos sem a necessidade de instalação de software adicional. Essa abordagem visa garantir portabilidade, praticidade e acessibilidade, permitindo o uso tanto em contextos técnicos quanto comerciais. Os principais ambientes de utilização incluem instituições acadêmicas e laboratórios de pesquisa, onde o site poderá ser usado para divulgar o produto, fornecer informações técnicas detalhadas e, em alguns casos, realizar ajustes e calibrações remotas em robôs ATENA disponíveis para demonstração local. Além disso, o sistema poderá ser empregado em eventos científicos e feiras tecnológicas, facilitando a apresentação pública do robô e incentivando o interesse em sua aquisição ou integração em projetos educacionais. Assim, o ambiente de utilização da interface equilibra dois objetivos principais: promover a divulgação e comercialização do robô ATENA, e oferecer ferramentas de controle e configuração para usuários que possuam o robô, sendo ele uma aquisição própria ou apenas uma amostra, garantindo uma experiência completa e integrada, tanto informativa quanto funcional.|
+| **Nome da referência** | **ISO 9241-151: Ergonomics of Human-System Interaction — Guidance on World Wide Web User Interfaces**|
+| **Descrição da referência e importância** | A **ISO 9241-151** fornece diretrizes específicas para o design de interfaces web, com foco em acessibilidade, navegação, clareza da informação e eficiência na interação online. Essa norma orienta a estruturação de sites que envolvem divulgação, comércio eletrônico e interação técnica, garantindo que o conteúdo seja compreendido facilmente e que o usuário consiga realizar ações (como compras e envios de formulários) de maneira fluida e intuitiva. No contexto do projeto ATENA, ela é essencial para assegurar que a experiência do usuário seja **intuitiva, confiável e consistente**, tanto na parte de divulgação e venda do robô quanto nas funções técnicas de diagnóstico e controle. |
+| **Link de referência** | [ISO 9241-151: Ergonomics of Human-System Interaction — Guidance on World Wide Web User Interfaces](https://www.iso.org/standard/37031.html) |
 
 ---
 
@@ -26,10 +26,10 @@
 - **Usuário:** Entusiastas, alunos e pesquisadores da área de robótica e computação.  
 - **Tarefas:** Visualizar informações sobre o robô, realizar compra de um robô ATENA, iniciar replicação, calibrar movimentos, monitorar logs, ajustar parâmetros e diagnosticar falhas.  
 - **Condições ambientais:**  
-  - **Software:** Sistema ATENA (interface desktop).  
-  - **Equipamento:** Computador conectado ao robô via ROS2 e MQTT.  
-  - **Ambiente físico:** Laboratório controlado e silencioso para realizar.  
-  - **Ambiente organizacional:** Instituição acadêmica com fins de pesquisa e desenvolvimento.  
+  - **Software:** Navegadores modernos (Google Chrome, Mozilla Firefox, Microsoft Edge) com suporte a HTML5 e WebSockets para comunicação com o robô..  
+  - **Equipamento:** Computador desktop ou notebook com acesso à internet estável e, em casos de configuração do robô, conexão direta via rede local ou USB. 
+  - **Ambiente físico:** Ambientes variados, desde salas de aula e laboratórios até escritórios e residências, com iluminação adequada e condições de trabalho confortáveis.  
+  - **Ambiente organizacional:** Instituições acadêmicas, centros de pesquisa, startups e feiras tecnológicas, onde o site é utilizado para fins de divulgação, compra ou demonstração técnica do robô ATENA.  
 
 ### Exigências para a Usabilidade
 
