@@ -9,24 +9,27 @@ Pagina inicial do site sobre o robô ATENA
 
 ### GOMS
 
-**Meta:** Explorar informações sobre o robô e enviar sugestões.<br><br>
-**Operadores:**<br>
-- Clicar em abas ou menus.<br>
-- Assistir vídeos e rolar página.<br>
-- Preencher campo de sugestão.<br>
-- Clicar em botão “Enviar”.<br>
+**GOAL 1:** Explorar informações sobre o robô ATENA e enviar sugestões<br>
 
-**Método:**<br>
-1. Acessar o site.<br>
-2. Explorar vídeos, imagens e descrições.<br>
-3. Acessar a seção “Sobre o Projeto”.<br>
-4. Enviar sugestão de melhoria.<br>
+METHOD 1.A: acessar e explorar o site<br>
+(SEL.RULE: o usuário deseja conhecer o robô ou contribuir com sugestões)
 
-**Seletores:**<br>
-- Se o usuário deseja apenas conhecer → encerra após etapa 3.<br>
-- Se o usuário deseja contribuir → prossegue para etapa 4.<br>
+- OP. 1.A.1: acessar o site do projeto
+- OP. 1.A.2: clicar nas abas ou menus disponíveis
+- OP. 1.A.3: assistir vídeos e rolar a página
+- OP. 1.A.4: acessar a seção “Sobre o Projeto”
 
-Resumo: O visitante entra na página inicial, navega pelos materiais de divulgação, conhece as funcionalidades do robô e, caso queira, envia sugestões diretamente pelo formulário.<br>
+**GOAL 1.B:** enviar uma sugestão<br>
+
+METHOD 1.B.A: preencher e enviar formulário de sugestão<br>
+(SEL.RULE: o usuário deseja contribuir com o projeto)
+
+- OP. 1.B.A.1: preencher o campo de sugestão
+- OP. 1.B.A.2: clicar no botão “Enviar”
+
+SEL.RULE geral:<br>
+Se o usuário deseja apenas conhecer o projeto → encerrar após OP. 1.A.4<br>
+Se o usuário deseja contribuir → prosseguir para GOAL 1.B<br>
 
 ### CTT
 
@@ -44,25 +47,24 @@ Possibilita a compra de um robô ATENA
 
 ### GOMS
 
-**Meta:** Adquirir um robô ATENA pelo site.<br><br>
-**Operadores:**<br>
-- Clicar em botão de compra<br>
-- Selecionar acessórios opcionais<br>
-- Preencher informações de pagamento.<br>
-- Clicar em confirmar.<br>
+**GOAL 1:** Adquirir um robô ATENA
 
-**Método:**<br>
-1. Acessar a seção de compra.<br>
-2. Escolher acessórios opcionais.<br>
-3. Inserir dados de pagamento.<br>
-4. Confirmar a compra e verificar o recebimento da confirmação.<br>
+METHOD 1.A: realizar o processo de compra<br>
+(SEL.RULE: o usuário deseja adquirir o robô pelo site)
 
-**Seletores:**<br>
-- Se pagamento autorizado → exibe mensagem de sucesso.<br>
-- Se erro no pagamento → exibe alerta e permite tentar novamente.<br>
+- OP. 1.A.1: acessar a seção de compra
+- OP. 1.A.2: clicar no botão de compra
+- OP. 1.A.3: selecionar acessórios opcionais
+- OP. 1.A.4: preencher informações de pagamento
+- OP. 1.A.5: clicar em confirmar
+  
+**GOAL 1.B:** finalizar e validar a compra
 
-Resumo: O usuário acessa a tela de venda, escolhe a versão do robô, insere seus dados de pagamento e finaliza a compra. O sistema gera uma confirmação visual e envia um e-mail automático com os detalhes do pedido.<br>
+METHOD 1.B.A: verificar status da transação<br>
+(SEL.RULE: resultado da autorização do pagamento)
 
+- OP. 1.B.A.1: se pagamento autorizado → exibir mensagem de sucesso
+- OP. 1.B.A.2: se erro no pagamento → exibir alerta e permitir nova tentativa
 ### CTT
 
 <img width="682" height="380" alt="image" src="https://github.com/user-attachments/assets/97440e57-d092-40b2-83f3-8d7d0f279e17" />
@@ -75,25 +77,24 @@ Permite o usuário verificar conexões e status em tempo real, analisar logs de 
 <img width="1392" height="394" alt="image" src="https://github.com/user-attachments/assets/495db693-1742-455e-b8ca-cfa1dd04bfa5" />
 
 ### GOMS
-**Meta:** Verificar status e realizar testes de comunicação.<br><br>
-**Operadores:**<br>
-- Clicar no menu “Diagnóstico”.<br>
-- Rolar lista de logs.<br>
-- Digitar comando de teste no terminal.<br>
-- Clicar em “Exportar Relatório”.<br>
+**GOAL 1:** Verificar status e realizar testes de comunicação<br>
 
-**Método:**<br>
-1. Abrir tela de Diagnóstico/Comunicação.<br>
-2. Conferir status das conexões.<br>
-3. Consultar registros de log.<br>
-4. Enviar comando de teste.<br>
-5. Exportar relatório se necessário.<br>
+METHOD 1.A: realizar diagnóstico completo<br>
+(SEL.RULE: o usuário acessa a tela para verificar conexões e funcionamento do robô)
 
-**Seletores:**<br>
-- Se status normal → apenas registrar.<br>
-- Se erro → reenviar comando ou acionar suporte.<br>
+- OP. 1.A.1: acessar o menu “Diagnóstico”
+- OP. 1.A.2: conferir status das conexões
+- OP. 1.A.3: rolar lista de logs recentes
+- OP. 1.A.4: digitar comando de teste no terminal
+- OP. 1.A.5: clicar em “Exportar Relatório”
 
-Resumo: O usuário entra na tela de diagnóstico, checa conexões, analisa logs, testa comandos e exporta relatórios em caso de falhas.<br>
+**GOAL 1.B:** analisar resultado e tomar ação apropriada<br>
+
+METHOD 1.B.A: validar resposta do sistema<br>
+(SEL.RULE: comportamento do robô após comando de teste)
+
+- OP. 1.B.A.1: se status normal → apenas registrar
+- OP. 1.B.A.2: se erro detectado → reenviar comando ou acionar suporte
 
 ### CTT
 
@@ -107,23 +108,23 @@ O usuário seleciona a junta, define o valor desejado (slider ou numérico) e en
 <img width="728" height="406" alt="image" src="https://github.com/user-attachments/assets/b1bab6ea-de7e-419e-821d-b4eca3066061" />
 
 ### GOMS
-**Meta:** Controlar manualmente cada junta do robô.<br><br>
-**Operadores:**<br>
-- Selecionar a junta a ser movida.<br>
-- Inserir valor via slider ou campo numérico.<br>
-- Enviar comando manual.<br>
+**GOAL 1:** Controlar manualmente cada junta do robô<br>
 
-**Método:**<br>
-1. Acessar painel de controle manual.<br>
-2. Selecionar junta desejada.<br>
-3. Definir valor de posição/ângulo.<br>
-4. Enviar comando.<br>
+METHOD 1.A: realizar comando de controle manual<br>
+(SEL.RULE: o usuário deseja ajustar uma junta específica do robô)
 
-**Seletores:**<br>
-- Se comando válido → robô executa.<br>
-- Se comando inválido → exibir mensagem de erro.<br>
+- OP. 1.A.1: acessar o painel de controle manual
+- OP. 1.A.2: selecionar a junta desejada
+- OP. 1.A.3: definir valor de posição/ângulo via slider ou campo numérico
+- OP. 1.A.4: enviar comando manual
 
-Resumo: Dá ao usuário a possibilidade de escolher uma junta, definir valores e enviar comandos diretos.<br>
+**GOAL 1.B:** validar execução do comando<br>
+
+METHOD 1.B.A: verificar resposta do sistema<br>
+(SEL.RULE: resultado da execução do comando)
+
+- OP. 1.B.A.1: se comando válido → robô executa movimento
+- OP. 1.B.A.2: se comando inválido → exibir mensagem de erro
 
 ### CTT
 
