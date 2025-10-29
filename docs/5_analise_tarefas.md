@@ -32,7 +32,7 @@ Resumo: O visitante entra na página inicial, navega pelos materiais de divulga�
 
 ### CTT
 
-<img width="675" height="323" alt="image" src="https://github.com/user-attachments/assets/ac4328e7-6a8d-4b2b-9b51-1d1daa6ed2de" />
+<img width="553" height="532" alt="image" src="https://github.com/user-attachments/assets/f488c926-ba60-40a5-a005-a5b52a384b5f" />
 
 **Legenda CTT:**<br>
 <img width="399" height="344" alt="image" src="https://github.com/user-attachments/assets/b476b39b-1338-43a7-96e9-d2e6d1914cb4" />
@@ -67,10 +67,7 @@ Resumo: O usuário acessa a tela de venda, escolhe a versão do robô, insere se
 
 ### CTT
 
-<img width="658" height="390" alt="image" src="https://github.com/user-attachments/assets/2acd0617-95b9-4d1c-8443-ad8dedf23a8a" />
-
-**Legenda CTT:**<br>
-<img width="399" height="344" alt="image" src="https://github.com/user-attachments/assets/b476b39b-1338-43a7-96e9-d2e6d1914cb4" />
+<img width="682" height="380" alt="image" src="https://github.com/user-attachments/assets/97440e57-d092-40b2-83f3-8d7d0f279e17" />
 
 # Tela de Diagnóstico / Comunicação
 ## Diagnóstico e Comunicação
@@ -102,10 +99,7 @@ Resumo: O usuário entra na tela de diagnóstico, checa conexões, analisa logs,
 
 ### CTT
 
-<img width="1132" height="536" alt="image" src="https://github.com/user-attachments/assets/dfd72e0d-a207-4957-952b-4ec8da85013a" />
-
-**Legenda CTT:**<br>
-<img width="399" height="344" alt="image" src="https://github.com/user-attachments/assets/b476b39b-1338-43a7-96e9-d2e6d1914cb4" />
+<img width="655" height="439" alt="image" src="https://github.com/user-attachments/assets/20763361-c430-42ef-9db1-e743c0caa291" />
 
 # Tela de Controle Manual
 ## Enviar Comandos Manuais para Juntas
@@ -135,7 +129,5 @@ Resumo: Dá ao usuário a possibilidade de escolher uma junta, definir valores e
 
 ### CTT
 
-<img width="1155" height="386" alt="image" src="https://github.com/user-attachments/assets/7d859570-dd77-417a-a062-b6eb2667e98d" />
+<img width="641" height="336" alt="image" src="https://github.com/user-attachments/assets/8c8f6745-ff2b-4c0b-8800-d7fc7478a84d" />
 
-**Legenda CTT:**<br>
-<img width="399" height="344" alt="image" src="https://github.com/user-attachments/assets/b476b39b-1338-43a7-96e9-d2e6d1914cb4" />
