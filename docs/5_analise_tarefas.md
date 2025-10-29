@@ -7,7 +7,7 @@
 ### HTA
 Pagina inicial do site sobre o robô ATENA
 
-<img width="1275" height="637" alt="image" src="https://github.com/user-attachments/assets/4ef67c98-a839-4ace-899c-d208fa77406e" />
+<img width="764" height="691" alt="image" src="https://github.com/user-attachments/assets/f922ee54-140e-436e-8ca1-9d7f0c59d781" />
 
 ### GOMS
 
