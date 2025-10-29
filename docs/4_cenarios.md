@@ -11,8 +11,8 @@ As informações sobre projetos de robótica estão espalhadas em diversas fonte
 4. O site comunica de maneira clara a proposta e objetivos do projeto?
 5. Que tipo de informações ou seções aumentariam o engajamento de visitantes e instituições?
 
-**Refinamento do Cenário**
-<br>
+**Refinamento do Cenário**<br>
+
 **Atores:** Estudantes, pesquisadores e curiosos por robótica.<br>
 
 Atualmente, pesquisadores e instituições interessadas em robôs humanoides [1] precisam buscar informações em diversas fontes fragmentadas, como vídeos no YouTube, repositórios técnicos e artigos dispersos [2]. A falta de um portal centralizado com conteúdo atualizado e acessível dificulta a compreensão das capacidades do robô [3].<br>
