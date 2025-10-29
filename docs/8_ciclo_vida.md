@@ -33,7 +33,19 @@
 
 ### Exigências para a Usabilidade
 
-| **Tipo** | **Descrição** |
-|-----------|----------------|
-| **Exigências qualitativas** | - Interface deve ser intuitiva, com menus claros e feedback visual imediato.<br>- As funções críticas (ex: iniciar replicação, calibrar) devem exigir confirmação do usuário.<br>- Mensagens de erro devem ser compreensíveis e informativas.<br>- O sistema deve permitir monitoramento visual (modelo 3D e logs).<br>- Deve haver consistência entre as telas (configuração, diagnóstico, calibração). |
-| **Exigências quantitativas** | - **Eficácia:** Usuário deve conseguir concluir tarefas principais (iniciar replicação, calibrar, exportar relatório) em até 2 minutos sem erro crítico.<br>- **Eficiência:** O número médio de cliques ou ações para cada tarefa deve ser menor que 5.<br>- **Satisfação:** Pelo menos 90% dos usuários devem avaliar a interface como “fácil de usar” ou superior em questionário de pós-teste. |
+| **Metas** | **Porcentagem** | **Justificativa** |
+| ----------------------------------------------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Facilidade de navegação e compreensão das informações | 25% | A interface deve permitir que qualquer usuário compreenda o conteúdo e navegue sem dificuldade, mesmo sem conhecimento técnico.  |
+| Clareza visual e consistência entre telas | 25% | A padronização de elementos visuais e interativos aumenta a previsibilidade e reduz erros de uso. |
+| Feedback visual imediato e mensagens compreensíveis | 25% | O sistema deve responder rapidamente às ações do usuário, com mensagens claras para cada operação executada.|
+| Segurança e confirmação nas ações críticas | 25% | Operações importantes, como o envio de comandos ou confirmação de compra, devem exigir confirmação para evitar erros acidentais. |
+| **Total** | **100%** | —  |
+
+| **Metas** | **Porcentagem** | **Justificativa** |
+| ---------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------- |
+| Eficácia: Conclusão de tarefas principais em até 2 minutos | 40% | Garante fluidez nas operações principais, como diagnóstico, controle manual e compra. |
+| Eficiência: Máximo de 5 ações por tarefa | 30% | Reduz a sobrecarga cognitiva e agiliza o fluxo de interação. |
+| Satisfação: 90% dos usuários avaliam como “fácil de usar” | 30% | Mede o sucesso da interface em proporcionar uma experiência positiva e intuitiva. |
+| **Total** | **100%** | — |
+
+
