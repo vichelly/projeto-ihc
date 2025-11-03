@@ -1,25 +1,27 @@
 # Modelo Conceitual
 
-## Cenário A - Tela Inicial
+## Cenário de Interação
+
+### Cenário A - Tela Inicial
 **Atores:** Estudantes, pesquisadores e curiosos por robótica.
 
 Atualmente, pesquisadores e instituições interessadas em robôs humanoides preferem a página inicial de portais sobre robótica que **agrupem conteúdo de forma centralizada**, pois isso evita a necessidade de buscar informações em fontes fragmentadas, como vídeos dispersos, repositórios técnicos e artigos soltos. A falta de um ponto único de referência dificulta a compreensão das capacidades e objetivos de projetos técnicos. **Páginas iniciais que destacam descrições, imagens e demonstrações em um único local tornam mais fácil entender o propósito e as aplicações de tecnologias complexas.**<br>
 Muitas vezes, ao encontrar informações isoladas, os visitantes não têm acesso a vídeos demonstrativos claros ou material multimídia confiável. **Quando há uma seção com vídeos oficiais e exemplos de uso reunidos, o visitante consegue visualizar rapidamente o funcionamento prático e avaliar a relevância do projeto.** A ausência de imagens explicativas e materiais de contextualização faz com que o público leigo tenha dificuldade em captar o valor da tecnologia. **Textos e blocos informativos que explicam objetivos, diferenciais e aplicações ajudam a transformar o interesse inicial em oportunidade de engajamento.**
 
-## Cenário B - Tela de Venda
+### Cenário B - Tela de Venda
 **Atores:** Representante institucional, gestor de laboratório, comprador público.
 
 Atualmente, instituições interessadas em adquirir robôs enfrentam um processo burocrático e desorganizado [1]. **Em situações de interesse, o comprador acessa páginas informativas que exibem valores estimados, prazos e especificações de forma direta**, eliminando a necessidade de solicitar cotações por e-mail ou telefone [2]. **Ao dispor dessas informações de forma clara, o representante consegue rapidamente avaliar a viabilidade orçamentária e decidir prosseguir com a compra**, reduzindo o tempo gasto em trocas de mensagens e diminuindo a perda de oportunidades [3].<br>
 Muitos locais que divulgam projetos técnicos mostram apenas artigos ou resultados de pesquisa, sem um caminho simples para manifestar interesse comercial [4]. **Quando existe uma seção dedicada para formalizar pedidos de cotação, o representante preenche dados institucionais básicos e recebe confirmação imediata de recebimento**, sem necessidade de criar conta ou negociar por e-mail, o que evita o abandono do processo por falta de praticidade [5].
 
-## Cenário C - Diagnóstico / Comunicação
+### Cenário C - Diagnóstico / Comunicação
 **Atores:** Técnico de manutenção, pesquisador em laboratório, operador remoto.
 
 Em muitas soluções atuais de robótica, o diagnóstico e a comunicação com o robô são feitos por meio de linhas de comando complexas [1]. Isso exige conhecimento técnico avançado e dificulta a identificação rápida de falhas [2]. **Quando o operador deseja verificar o status de comunicação, ele costuma acessar uma área dedicada onde é possível visualizar indicadores de conexão de cada subsistema, em vez de depender apenas de comandos textuais.**<br>
 Quando o robô perde conexão com algum componente, o operador precisa acessar múltiplos terminais e logs separados para verificar o problema [3]. Esse processo é demorado e propenso a erros, principalmente durante demonstrações públicas ou testes laboratoriais [4]. **Ao reunir informações relevantes em um único painel, o operador consegue testar conexões, interpretar registros e executar comandos de diagnóstico com menor risco de erro humano e com maior velocidade.**<br>
 Além disso, a falta de uma interface visual integrada impede a visualização em tempo real do status de cada módulo, tornando o monitoramento ineficiente [5].**Com indicadores visuais de conectividade e operação, o operador entende rapidamente o status global do sistema, consegue reagir a falhas durante testes ao vivo e possui clareza imediata sobre o estado dos módulos sem necessidade de interromper a execução para leitura de logs complexos.**
 
-## Cenário D - Dificuldade de Configuração e Ajuste
+### Cenário D - Dificuldade de Configuração e Ajuste
 **Atores:** Operador remoto, pesquisador em testes, desenvolvedor de controle.
 
 Hoje, o controle manual dos movimentos de um robô humanoide costuma depender de scripts ou códigos diretos enviados via terminal [1]. Essa abordagem aumenta o risco de erro humano e dificulta ajustes finos durante testes [2]. **Quando o operador deseja ajustar manualmente uma junta, ele acessa uma área de controle dedicada, onde pode selecionar a junta desejada e visualizar o valor atual antes de enviar o comando de movimentação.**<br>
