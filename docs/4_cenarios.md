@@ -1,6 +1,6 @@
 # Cenário de Análise/Problema
 
-## Cenário de Análise/Problema 1 – Página Inicial (Divulgação do Robô ATENA)
+## Cenário de Análise/Problema 1 – Página Inicial
 
 As informações sobre projetos de robótica estão espalhadas em diversas fontes, como vídeos e artigos, dificultando que o público compreenda suas capacidades e objetivos. A falta de um portal centralizado e visualmente atrativo reduz o interesse de quem busca conhecer melhor essas iniciativas.
 
@@ -20,7 +20,7 @@ Quando um visitante encontra o site do projeto em repositórios abertos, muitas 
 
 ---
 
-## Cenário de Análise/Problema 2 – Página de Compra do Robô ATENA
+## Cenário de Análise/Problema 2 – Página de Compra 
 
 O processo de aquisição de equipamentos tecnológicos é lento e confuso, exigindo contato manual por e-mail ou telefone. A ausência de plataformas com informações claras e acesso direto à compra gera atrasos, retrabalho e perda de potenciais clientes.
 
