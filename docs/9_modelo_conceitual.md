@@ -83,7 +83,7 @@ Sem uma interface dedicada, torna-se inviável realizar demonstrações interati
 ## **Mapa de Objetivos**
 > **_NOTE:_**: cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação
 
-4) **Esquema Conceitual de Signos**
+## **Esquema Conceitual de Signos**
 
 > **_NOTE:_**: fazer a junção das 3 tabelas abaixo em uma única
 
