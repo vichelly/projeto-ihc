@@ -33,7 +33,7 @@ Se o usuário deseja contribuir → prosseguir para GOAL 1.B<br>
 
 ### CTT
 
-<img width="553" height="532" alt="image" src="https://github.com/user-attachments/assets/f488c926-ba60-40a5-a005-a5b52a384b5f" />
+<img width="607" height="602" alt="image" src="https://github.com/user-attachments/assets/7ac3fb8d-5c8e-4054-9c32-163de4e411d0" />
 
 **Legenda CTT:**<br>
 <img width="399" height="344" alt="image" src="https://github.com/user-attachments/assets/b476b39b-1338-43a7-96e9-d2e6d1914cb4" />
