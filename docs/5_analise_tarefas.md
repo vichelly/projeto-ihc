@@ -5,7 +5,7 @@
 ### HTA
 Pagina inicial do site sobre o robô ATENA
 
-<img width="764" height="691" alt="image" src="https://github.com/user-attachments/assets/f922ee54-140e-436e-8ca1-9d7f0c59d781" />
+<img width="973" height="725" alt="image" src="https://github.com/user-attachments/assets/12198af6-45da-4a46-976b-25cc88e00db4" />
 
 ### GOMS
 
@@ -43,7 +43,7 @@ Se o usuário deseja contribuir → prosseguir para GOAL 1.B<br>
 ### HTA
 Possibilita a compra de um robô ATENA
 
-<img width="1267" height="455" alt="image" src="https://github.com/user-attachments/assets/84ea81f3-1262-4a62-b269-8ff850d52eed" />
+<img width="1108" height="414" alt="image" src="https://github.com/user-attachments/assets/1d7a8b5a-67b5-4568-ae4d-2f7cde288c17" />
 
 ### GOMS
 
