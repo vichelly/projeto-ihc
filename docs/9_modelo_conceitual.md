@@ -87,8 +87,8 @@ Sem uma interface dedicada, torna-se inviável realizar demonstrações interati
 
 > **_NOTE:_**: fazer a junção das 3 tabelas abaixo em uma única
 
-| Credenciais (C) \- credenciais para acesso ao sistema |  |  |
-| :---- | :---- | :---- |
+| Credenciais (C) \- credenciais para acesso ao sistema |  |  |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | **signo** | **origem** | **observações** | **Tipo de conteúdo** | **restrição sobre conteúdo** | **valor default** | **prevenção** | **recuperação** |
 | usuário | domínio |  | texto | não pode ser nulo | — | PP: campo obrigatório | RA |
 | senha | domínio |  | texto | não pode ser nulo | — | PP: campo obrigatório | RA |
