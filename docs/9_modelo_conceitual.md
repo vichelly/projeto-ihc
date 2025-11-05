@@ -89,18 +89,6 @@ Sem uma interface dedicada, torna-se inviável realizar demonstrações interati
 
 | Credenciais (C) \- credenciais para acesso ao sistema |  |  |
 | :---- | :---- | :---- |
-| **signo** | **origem** | **observações** |
-| usuário | domínio |  |
-| senha | domínio |  |
-
-| Credenciais (C) \- credenciais para acesso ao sistema |  |  |  |
-| :---- | :---- | :---- | :---- |
-| **signo** | **Tipo de conteúdo** | **restrição sobre conteúdo** | **valor default** |
-| usuário | texto | não pode ser nulo | — |
-| senha | texto | não pode ser nulo | — |
-
-| Credenciais (C) \- credenciais para acesso ao sistema |  |  |
-| :---- | :---- | :---- |
-| **signo** | **prevenção** | **recuperação** |
-| usuário | PP: campo obrigatório | RA |
-| senha | PP campo obrigatório  | RA |
+| **signo** | **origem** | **observações** | **Tipo de conteúdo** | **restrição sobre conteúdo** | **valor default** | **prevenção** | **recuperação** |
+| usuário | domínio |  | texto | não pode ser nulo | — | PP: campo obrigatório | RA |
+| senha | domínio |  | texto | não pode ser nulo | — | PP: campo obrigatório | RA |
