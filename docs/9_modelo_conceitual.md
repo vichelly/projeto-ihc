@@ -81,7 +81,10 @@ Sem uma interface dedicada, torna-se inviável realizar demonstrações interati
 | > operação visual acessível a usuários menos experientes | D: O controle visual substitui comandos complexos — permitindo demonstrações interativas mesmo para quem não tem conhecimento técnico profundo. |
 
 ## **Mapa de Objetivos**
-> **_NOTE:_**: cada um coloca seu mapa de objetivos e deverá ter um diagrama de consolidação
+<img width="1072" height="707" alt="image" src="https://github.com/user-attachments/assets/af1d985d-7e9d-49ce-b28e-92b534bb312c" />
+
+**Legenda:** <br>
+<img width="335" height="373" alt="image" src="https://github.com/user-attachments/assets/6b8ae84a-393b-4312-ad2d-2273426d7562" />
 
 ## **Esquema Conceitual de Signos**
 
