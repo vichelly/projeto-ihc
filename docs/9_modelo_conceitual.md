@@ -86,10 +86,6 @@ Sem uma interface dedicada, torna-se inviável realizar demonstrações interati
 **Legenda:** <br>
 <img width="335" height="373" alt="image" src="https://github.com/user-attachments/assets/6b8ae84a-393b-4312-ad2d-2273426d7562" />
 
-## **Esquema Conceitual de Signos**
-
-> **_NOTE:_**: fazer a junção das 3 tabelas abaixo em uma única
-
 ## Explorar pagina inicial ##
 | signo                          | origem  | observações                  | Tipo de conteúdo | restrição sobre conteúdo      | valor default                    | prevenção                                                  | recuperação                                                                                             |
 | ------------------------------ | ------- | ---------------------------- | ---------------- | ----------------------------- | -------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
