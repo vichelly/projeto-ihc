@@ -1,15 +1,14 @@
 1) **Planejamento de Usabilidade (método DECIDE)**
 
-| D |  |
+| D | **Objetivo geral:**<br>Avaliar se o sistema proporciona uma navegação fluida, compreensão clara das funções e facilidade na execução das tarefas principais relacionadas ao robô (explorar informações, realizar compra, diagnosticar e controlar manualmente). <br><br>**Objetivos específicos:**<br>- Verificar se os usuários compreendem o propósito do robô e sua proposta tecnológica.<BR>- Avaliar se o processo de compra é rápido, direto e sem confusões.<BR>- Medir a eficiência na identificação e solução de falhas por meio da tela de diagnóstico.<br>- Testar a clareza e precisão do controle manual do robô, incluindo o entendimento dos feedbacks visuais.|
 | :---: | :---- |
-| **E** |   |
-| **C** |  |
-| **I** |  |
-| **D** |  |
-| **E** | A análise e produção dos resultados precisam considerar vários aspectos… |
-
+| **E** | 1. Os usuários conseguem encontrar facilmente as informações sobre o robô?<br> 2. A navegação entre as seções é intuitiva?<br>3. O sistema fornece feedbacks claros e úteis durante ações críticas (ex: diagnóstico ou controle manual)?<br>4. O tempo necessário para completar cada tarefa é adequado?<br>5. Há erros ou confusões recorrentes entre os participantes?<br>6. Os usuários se sentem confiantes em utilizar o sistema sem ajuda externa?<br>7. O design transmite credibilidade e clareza na proposta do projeto? |
+| **C** | **Métodos escolhidos:**<br> - Teste de usabilidade com tarefas, onde os usuários realizam tarefas enquanto descrevem o que estão pensando.<br>- Questionário aplicado após o teste para medir a percepção geral da usabilidade.<br>- Observação direta com registro de comportamento, hesitações e erros durante a interação. |
+| **I** | **Participantes:**<br>- 3 estudantes de engenharia<br>- 2 pesquisadores em robótica<br>- 1 técnico de laboratório<br> **Local:** laboratório de pesquisa ou sala de aula<br>**Equipamentos:** computador, conexão estável à internet, planilha de registro. <br>**Recursos necessários:** versão funcional do sistema, roteiros de tarefas, questionario e registros.|
+| **D** | - Garantir anonimato dos participantes e confidencialidade dos dados coletados.<br>- Solicitar consentimento informado antes do início do teste.<br>- Esclarecer que os testes avaliam o sistema, e não o desempenho individual do usuário.<br>- Permitir desistência a qualquer momento sem prejuízo.|
+| **E** | **Coleta:** gravação de tela e anotações de observadores.<br>**Métricas:**<br>- Taxa de sucesso nas tarefas (%)<br>- Tempo médio por tarefa<br>- Número de erros cometidos<br>- Pontuação SUS média<br>- Comentários qualitativos sobre experiência<br>**Análise:** cruzar dados quantitativos (eficiência, erros) e qualitativos (percepção, satisfação).<br>**Apresentação:** relatório final com gráficos de desempenho, tabela de erros e sugestões de melhoria, destacando pontos fortes e fragilidades de cada tela. |
 2) Lista de Instrumentos  
-   1) Termo de consentimento  
+   1) Roteiro de Tarefas  
    2) Questionários  
-   3) Tabela de Observação  
+   3) Ficha de Observação do Avaliador
    4) Formulário de avaliação Heuristica.
