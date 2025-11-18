@@ -64,21 +64,20 @@
 ---
 
 # Conclusão da avaliação por observação do usuário
+Conclusão da avaliação por observação do usuário
 
-*Pontos positivos*
-- Interface intuitiva e fluida para tarefas básicas.
+Pontos positivos
 
-- Processo de configuração de layout rápido e direto.
+Sucesso na Segmentação de Público: A aplicação validou sua eficácia em atender públicos distintos. As telas Início e Adquirir são claras e visuais para leigos e compradores (Murilo, Rafael).
 
-- Feedback visual adequado ao salvar configurações.
+Interfaces Técnicas Poderosas: As telas Diagnóstico e Controle Manual foram muito apreciadas pelos usuários técnicos (Vitor, Juan) por sua densidade de informação e funcionalidade.
 
-- Ferramentas de relatório com resultados visualmente claros (dashboard e heatmap).
+Feedback Visual Eficaz: O modelo 2D do robô na tela de Controle Manual foi universalmente compreendido e elogiado, dando segurança ao técnico (Juan) e provando sua eficácia (assustando o leigo Murilo).
 
-*Pontos negativos*
-- Falta de feedback visual em algumas operações (ex: exportação).
+Pontos negativos
 
-- Ausência de confirmação preventiva antes de exclusões e exportações.
+Risco Crítico de Uso por Leigos: O maior problema. O usuário leigo (Murilo) acessou telas técnicas complexas, sentindo-se sobrecarregado (Diagnóstico) e com medo de quebrar o equipamento (Controle).
 
-- Alguns ícones e rótulos pouco claros para usuários inexperientes.
+Falta de Descrições (Adquirir): O usuário comprador (Rafael) não soube o que era um item opcional ("Base Móvel"), indicando a falta de descrições "on-hover" ou detalhamentos na tela de compra.
 
-- Necessidade de documentação contextual (ex: pequenos tutoriais no sistema).
+Pequenas Fricções Técnicas: Usuário técnico (Vitor) demorou a localizar os filtros de log, sugerindo que poderiam ter maior destaque.
