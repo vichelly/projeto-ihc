@@ -1,2 +1,3 @@
 
-https://github.com/galera33/IHC/blob/main/imagem1.png
+![Prototipação](https://raw.githubusercontent.com/galera33/IHC/main/imagem1.png)
+
