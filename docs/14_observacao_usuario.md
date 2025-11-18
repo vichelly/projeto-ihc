@@ -1,6 +1,35 @@
 # 1.Fluxograma de Avaliação de Usabilidade por Observação do Usuário
 
-<img alt="Fluxograma_observacao_usuario.png" src="imagens/observacao_usuario/Fluxograma_observacao_usuario.png" width="300"/>
+graph TD
+    subgraph Preparação [1. Preparação da Avaliação]
+        A(Definir Objetivos e Escopo) --> B(Selecionar Método de Observação);
+        B --> C(Definir Perfil e Recrutar 4 Usuários);
+        C --> D(Preparar Materiais: Termo, Roteiro, Questionários);
+        D --> E(Preparar Ambiente e Equipamentos);
+        E --> F(Realizar Teste-Piloto Interno);
+    end
+
+    subgraph Execução [2. Execução do Teste]
+        G(Recepcionar Usuário e Explicar Objetivos) --> H(Apresentar Termo de Consentimento);
+        H --> I(Aplicar Questionário Pré-Teste);
+        I --> J(Explicar Cenários das Tarefas);
+        J --> K(Observar Tarefas s/ Intervenção);
+        K --> L(Registrar Métricas: Tempo, Erros, Sucesso);
+        L --> M(Encerrar Sessão de Observação);
+    end
+
+    subgraph Pós-Teste [3. Pós-Teste]
+        N(Aplicar Questionário Pós-Teste) --> O(Realizar Entrevista Breve);
+    end
+
+    subgraph Análise e Consolidação [4. Análise e 5. Consolidação]
+        P(Compilar Dados Quantitativos e Qualitativos) --> Q(Analisar e Interpretar Resultados);
+        Q --> R(Identificar Recorrências e Tendências);
+        R --> S(Planejar Melhorias e Ações Corretivas);
+    end
+
+    Preparação --> Execução --> Pós-Teste --> Análise e Consolidação
+
 
 
 ---
