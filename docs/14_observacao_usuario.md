@@ -54,7 +54,7 @@
 | 3      | Sucesso  | 1              | (1) Elogiou os filtros de logs, mas queria salvar/exportar uma visualização filtrada, não apenas o JSON. | 13s              | Satisfação alta  |
 | 4      | Sucesso  | 0              | (Testou os limites, o reset, e a gravação. Elogiou os limites de segurança). | 60s              | Satisfação  |
 
-### Marcio Forner
+### Gabriel Vertamatti
 | Tarefa | Grau de Sucesso | Total de Erros | Tipos de Erros                                                | Tempo Necessário | Grau de Satisfação |
 | ------ | --------------- | -------------- | ------------------------------------------------------------- | ---------------- | ------------------ |
 | 1      | Sucesso  | 0              | (Leu as seções "Estatísticas" e "Sobre o Projeto" com atenção).    | 1 min 50 seg              | Satisfeito    |
