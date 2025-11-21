@@ -26,7 +26,7 @@
 
 # 3.Resultados do teste
 
-### Natalia Saori
+### Nathalia Saori
 
 | Tarefa | Grau de Sucesso | Total de Erros | Tipos de Erros                                           | Tempo Necessário | Grau de Satisfação |
 | ------ | --------------- | -------------- | -------------------------------------------------------- | ---------------- | ------------------ |
@@ -69,16 +69,16 @@ Conclusão da avaliação por observação do usuário
 
 Pontos positivos
 
-Sucesso na Segmentação de Público: A aplicação validou sua eficácia em atender públicos distintos. As telas Início e Adquirir são claras e visuais para leigos e compradores (Murilo, Rafael).
+Sucesso na Segmentação de Público: A aplicação validou sua eficácia em atender públicos distintos. As telas Início e Adquirir são claras e visuais para leigos e compradores (Lucas, Gabriel).
 
-Interfaces Técnicas Poderosas: As telas Diagnóstico e Controle Manual foram muito apreciadas pelos usuários técnicos (Vitor, Juan) por sua densidade de informação e funcionalidade.
+Interfaces Técnicas Poderosas: As telas Diagnóstico e Controle Manual foram muito apreciadas pelos usuários técnicos (Nathalia, Livia) por sua densidade de informação e funcionalidade.
 
-Feedback Visual Eficaz: O modelo 2D do robô na tela de Controle Manual foi universalmente compreendido e elogiado, dando segurança ao técnico (Juan) e provando sua eficácia (assustando o leigo Murilo).
+Feedback Visual Eficaz: O modelo 2D do robô na tela de Controle Manual foi universalmente compreendido e elogiado, dando segurança ao técnico (Livia) e provando sua eficácia (assustando o leigo Lucas).
 
 Pontos negativos
 
-Risco Crítico de Uso por Leigos: O maior problema. O usuário leigo (Murilo) acessou telas técnicas complexas, sentindo-se sobrecarregado (Diagnóstico) e com medo de quebrar o equipamento (Controle).
+Risco Crítico de Uso por Leigos: O maior problema. O usuário leigo (Lucas) acessou telas técnicas complexas, sentindo-se sobrecarregado (Diagnóstico) e com medo de quebrar o equipamento (Controle).
 
-Falta de Descrições (Adquirir): O usuário comprador (Rafael) não soube o que era um item opcional ("Base Móvel"), indicando a falta de descrições "on-hover" ou detalhamentos na tela de compra.
+Falta de Descrições (Adquirir): O usuário comprador (Gabriel) não soube o que era um item opcional ("Base Móvel"), indicando a falta de descrições "on-hover" ou detalhamentos na tela de compra.
 
-Pequenas Fricções Técnicas: Usuário técnico (Vitor) demorou a localizar os filtros de log, sugerindo que poderiam ter maior destaque.
+Pequenas Fricções Técnicas: Usuário técnico (Nathalia) demorou a localizar os filtros de log, sugerindo que poderiam ter maior destaque.
