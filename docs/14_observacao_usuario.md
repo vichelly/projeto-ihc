@@ -26,7 +26,7 @@
 
 # 3.Resultados do teste
 
-### Vitor Lucas
+### Natalia Saori
 
 | Tarefa | Grau de Sucesso | Total de Erros | Tipos de Erros                                           | Tempo Necessário | Grau de Satisfação |
 | ------ | --------------- | -------------- | -------------------------------------------------------- | ---------------- | ------------------ |
@@ -35,7 +35,7 @@
 | 3      | Sucesso  | 2              | (1) Tentou clicar no "Robot Model" (SVG) para obter logs. (1) Demorou para achar o filtro de logs.       | 1 min 15 seg              | Satisfação alta  |
 | 4      | Sucesso  | 1              | (1) Não encontrou botão “Exportar PDF” de imediato       | 1 min 15 seg              | Satisfação alta  |
 
-### Murilo 
+### Lucas Sombra
 
 | Tarefa | Grau de Sucesso | Total de Erros | Tipos de Erros                                  | Tempo Necessário | Grau de Satisfação |
 | ------ | --------------- | -------------- | ----------------------------------------------- | ---------------- | ------------------ |
@@ -45,7 +45,8 @@
 | 4      | Falha | 3              | (1) Moveu o slider do ombro para 180° bruscamente. (1) Tremeu ao ver o modelo 2D se mexer. (1) Desistiu com "medo de quebrar". | 40s              | Confusão  |
 
 
-### Juan
+### Livia Lumi
+
 | Tarefa | Grau de Sucesso | Total de Erros | Tipos de Erros                                                | Tempo Necessário | Grau de Satisfação |
 | ------ | --------------- | -------------- | ------------------------------------------------------------- | ---------------- | ------------------ |
 | 1      | Sucesso  | 0              | -    | 9s               | Leve frustração    |
@@ -53,7 +54,7 @@
 | 3      | Sucesso  | 1              | (1) Elogiou os filtros de logs, mas queria salvar/exportar uma visualização filtrada, não apenas o JSON. | 13s              | Satisfação alta  |
 | 4      | Sucesso  | 0              | (Testou os limites, o reset, e a gravação. Elogiou os limites de segurança). | 60s              | Satisfação  |
 
-### Rafael
+### Marcio Forner
 | Tarefa | Grau de Sucesso | Total de Erros | Tipos de Erros                                                | Tempo Necessário | Grau de Satisfação |
 | ------ | --------------- | -------------- | ------------------------------------------------------------- | ---------------- | ------------------ |
 | 1      | Sucesso  | 0              | (Leu as seções "Estatísticas" e "Sobre o Projeto" com atenção).    | 1 min 50 seg              | Satisfeito    |
