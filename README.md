@@ -83,41 +83,6 @@ O robô ATENA será utilizado em ambiente acadêmico e de pesquisa, para estudo 
  - [Avaliação de IHC através de Inspeção Heurística](https://github.com/vichelly/projeto-ihc/blob/main/docs/heuristica.md)
  - [Avaliação de Usabilidade baseado em Observação do Usuário](https://github.com/vichelly/projeto-ihc/blob/main/docs/observacao_usuario.md)
 
-<!--
-## Análise de concorrência
-
-- Pesquise serviços ou podutos existentes atualmente que possam realizar o objetivo deste projeto.
-- Selecione pelo menos 3 serviços ou podutos diferentes.
-- Em relação aos concorrentes, respondam as seguintes perguntas?
-  - Existe plataforma similar que atende o mesmo mercado e funcionalidades? Se sim: Quais os pontos positivos? Quais os pontos negativos?
-  - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
- 
-## Coleta de dados
-
-## Modelo de tarefas
-
-## Design
-
-- Pense nas características de Affordances do seu serviço ou poduto. 
-    - Que tipo de acessibilidades devem ser consideradas dentro do seu projeto?
-- Discuta o papel das expectativas do usuário no projeto deste serviço ou poduto. Qual a importância e pontos a serem considerados se você quiser vender esse serviço ou poduto?
-
-### Prototipação em baixo nível (papel)
-#### Avaliação heurística
-
-### Prtotipação em médio nível (Figma)
-#### Avaliação heurística
-
-### Prtotipação em alto nível (React)
-#### Avaliação heurística
-
-[^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
-
-<!-- TODOs:
-- Add exemplos
--->
-Backend deve conversar com ROS2 e MQTT.
-
 <img width="644" height="558" alt="image" src="https://github.com/user-attachments/assets/cea61c70-9211-4b17-a561-5474c6436926" />
 
 [[https://bolt.new/oauth2?code=aWlK-T0lSspGGMbcu9kRP01Max7J4LR0tTVPWR-E0OQ&state=6ebc71d1-f4dd-4c4b-81ce-6064bb2c39f0](https://atena-robot-control-d29i.bolt.host/)](https://bolt.new/~/sb1-jveugx49)
