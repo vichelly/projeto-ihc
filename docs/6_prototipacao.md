@@ -1,147 +1,130 @@
-<img width="838" height="1605" alt="imagem2" src="https://github.com/user-attachments/assets/300667d9-cc04-4447-9b5e-bef7172ecb08" />
-A tela inicial funciona como ponto de entrada para o usuário, apresentando o conceito do projeto, suas tecnologias envolvidas e as capacidades esperadas do robô ATENA.
+## 1. Tela Inicial
 
-Resumo das Funcionalidades
+![Tela
+Inicial](https://github.com/user-attachments/assets/300667d9-cc04-4447-9b5e-bef7172ecb08)
 
-Demonstração em Ação
-Área reservada para vídeo exibindo o robô replicando movimentos em tempo real.
+A tela inicial serve como ponto de entrada para o usuário, apresentando
+o conceito do projeto, suas tecnologias envolvidas e as capacidades
+esperadas do robô ATENA.
 
-Tecnologias Avançadas
-Destaque para os pilares tecnológicos do sistema:
+### Resumo das Funcionalidades
 
-Visão Computacional: captura de movimentos humanos;
+#### Demonstração em Ação
 
-Processamento ROS2: controle articulado via nós e tópicos;
+Área reservada para um vídeo mostrando o robô replicando movimentos em
+tempo real.
 
-Comunicação MQTT: conectividade remota via WebSocket;
+#### Tecnologias Avançadas
 
-Replicação Inteligente: algoritmos dedicados à transformação e execução das poses humanas.
+Principais pilares do sistema: - Visão Computacional para captura de
+movimentos humanos\
+- Processamento com ROS2 para controle articulado\
+- Comunicação MQTT via WebSocket\
+- Algoritmos de replicação para transformar poses humanas em movimentos
+robóticos
 
-Sobre o Projeto ATENA
-Introdução ao objetivo do robô, seu fundamento humanoide e a motivação da interface web (acesso intuitivo, responsivo e com ferramentas de diagnóstico).
+#### Sobre o Projeto ATENA
 
-Especificações Técnicas
-O protótipo utiliza:
+Apresentação do objetivo do robô, sua inspiração humanoide e a motivação
+para criar uma interface web acessível, responsiva e com capacidades de
+diagnóstico.
 
-Raspberry Pi 4
+### Especificações Técnicas
 
-ROS2 Jazzy
+O protótipo utiliza: - Raspberry Pi 4\
+- ROS2 Jazzy\
+- MQTT over WebSocket\
+- 6 DOF de articulação\
+- Interface Web desenvolvida com React e TypeScript
 
-MQTT over WebSocket
+### Métricas de Performance
 
-6 DOF de articulação
+Metas estabelecidas para o sistema: - 99.5% de precisão nos movimentos\
+- Latência inferior a 50 ms\
+- Operação contínua 24/7
 
-Interface em React + TypeScript
+A baixa latência é fundamental, pois ações correlacionadas devem ocorrer
+em menos de 100 ms para serem percebidas como simultâneas pelo sistema
+visual humano.
 
-Métricas de Performance
-O sistema tem como meta:
+## 2. Dashboard do Sistema
 
-99.5% de Precisão de Movimento
+![Dashboard](https://github.com/user-attachments/assets/20c3bcac-70b6-4e05-8b31-7ccaacdab974)
 
-Latência < 50 ms
+Esta tela reúne informações essenciais sobre o estado de hardware,
+comunicação e articulações do robô.
 
-Operação contínua 24/7
-A baixa latência é crucial, pois para que uma ação seja percebida como causa de outra pelo sistema perceptual humano, ambas devem ocorrer em menos de 100 ms.
+### Camera Feed -- Live
 
-Contribua com o Projeto
-Campo interativo para envio de sugestões ou feedback.
+Exibe o stream ao vivo do sistema em 1920×1080 a 30 fps. A taxa mínima
+de 20 fps garante que o movimento seja interpretado como contínuo.
 
-<img width="1062" height="1747" alt="imagem1" src="https://github.com/user-attachments/assets/20c3bcac-70b6-4e05-8b31-7ccaacdab974" />
+### Robot Model -- Powered
 
-Esta é a área de controle e observação do sistema, reunindo informações essenciais sobre o estado de hardware, comunicação e articulações.
+Mostra o modelo do robô com ângulos das juntas em tempo real.
 
-Componentes e Funcionalidades
+### Controles Principais
 
-Camera Feed – LIVE
-Visualiza o stream ao vivo (1920×1080 @ 30fps).
-A taxa acima de 20fps é importante para que o Sistema Perceptual humano interprete o movimento como contínuo.
+Botões para: - Iniciar replicação\
+- Controle manual\
+- Ativar modo demonstração\
+- Desligar o sistema
 
-Robot Model – POWERED
-Exibe o modelo do robô com os ângulos das juntas em tempo real, como:
+### Status do Sistema e Hardware
 
-L Shoulder: 105°
+Painéis exibem: - Estado da comunicação MQTT\
+- Estado do ROS2\
+- Telemetria elétrica\
+- Temperatura da CPU e dos servos
 
-R Elbow: 120°
+### Logs Detalhados
 
-Controles Principais
-Botões amplos para:
+Mostra histórico de publicações e eventos, com opção de exportar
+relatórios.
 
-Iniciar Replicação
+### Terminal Integrado
 
-Controle Manual
+Permite envio direto de comandos MQTT ou ROS2, além de visualizar
+tópicos e nós ativos.
 
-Modo Demo
+## 3. Controle de Juntas
 
-Desligar
-O dimensionamento segue a Lei de Fitts, garantindo menor tempo de apontamento através do aumento da área clicável.
+![Controle de
+Juntas](https://github.com/user-attachments/assets/978e4056-4450-44b1-b484-3eaf2fa62318)
 
-Status do Sistema e Hardware
-Painéis agrupando:
+Esta área permite o controle individual ou global de cada junta do robô
+ATENA.
 
-Estado MQTT (Conectado)
+### Controles Globais
 
-Estado ROS2 (Ativo)
+Inclui sliders para velocidade geral, amplitude total e posição neutra.
 
-Telemetria elétrica (Tensão, Corrente)
+### Visualização em Tempo Real
 
-Temperatura da CPU e Servos
+Modelo do robô atualiza conforme os sliders são ajustados.
 
-Logs Detalhados
-Histórico de publicações e eventos (ROS2 e MQTT), com opção de exportar relatório.
+### Controle Individual das Juntas
 
-Terminal Integrado
-Permite envio direto de comandos MQTT/ROS2 e exibição de tópicos e nós ativos — ferramenta útil para depuração.
+Sliders organizados para ombro, cotovelo e punho dos braços esquerdo e
+direito.
 
-<img width="864" height="727" alt="imagem4" src="https://github.com/user-attachments/assets/978e4056-4450-44b1-b484-3eaf2fa62318" />
+## 4. Loja / Configurador do Robô
 
-Esta seção permite ao usuário manipular cada junta do robô ATENA de forma individual ou global, essencial para testes e teleoperação.
+![Loja](https://github.com/user-attachments/assets/016169fa-d842-4d79-a5f1-b02e84a884df)
 
-Funcionalidade da Tela
+Tela para configuração e aquisição do protótipo ATENA.
 
-Controles Globais
-Sliders para:
+### Robô ATENA -- Modelo Base
 
-Velocidade global do movimento
+-   Preço: R\$ 4.999,00\
+-   6 DOF\
+-   Garantia de 2 anos
 
-Amplitude global
+### Acessórios Opcionais
 
-Botão para resetar para a posição neutra
+-   Câmera HD adicional\
+-   Base móvel
 
-Visualização em Tempo Real
-O modelo gráfico reflete instantaneamente as mudanças aplicadas pelos sliders.
-Esse feedback imediato é importante, pois o processamento cognitivo depende da sincronização perceptual-motora.
+### Resumo do Pedido
 
-Controle Individual das Juntas
-Sliders separados dos braços esquerdo e direito, permitindo controlar:
-
-Ombro
-
-Cotovelo
-
-Punho
-A divisão visual segue o princípio da Proximidade da Gestalt, agrupando elementos relacionáveis.
-
-<img width="889" height="565" alt="imagem3" src="https://github.com/user-attachments/assets/016169fa-d842-4d79-a5f1-b02e84a884df" />
-
-Tela que simula uma experiência de “loja”, onde o usuário pode configurar e adquirir o protótipo ATENA.
-
-Elementos Principais
-
-Robô ATENA – Modelo Base
-
-Preço: R$ 4.999,00
-
-6 DOF
-
-Garantia de 2 anos
-
-Avaliação do produto
-
-Acessórios Opcionais
-
-Câmera HD Adicional
-
-Base Móvel
-
-Resumo do Pedido
-Exibe total da compra e botão Prosseguir para Pagamento.
+Exibe o total da compra e botão para prosseguir ao pagamento.
