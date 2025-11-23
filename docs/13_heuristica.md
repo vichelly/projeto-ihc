@@ -1,6 +1,4 @@
-1) **Avaliação de IHC através de inspeção HEURÍSTICA \[1 solução completa por pessoa da equipe \- todas as telas do projeto\]**
-
-> **_NOTE:_**: SOMENTE VIOLAÇÕES
+1) **Avaliação de IHC através de inspeção HEURÍSTICA \[1 solução completa por pessoa da equipe \- todas as telas do projeto\]**S
 
 Dez Heurísticas de Nielsen
 
@@ -42,11 +40,74 @@ Avaliação heurística, definida por Nielsen e Molich (1994), é um método de 
 | 3 | Grave | Problema de alta prioridade (deve ser reparado) |
 | 4 | Catastrófico | Muito grave, deve ser reparado de qualquer forma. |
 
-**Heuristica 1 - Visibilidade do estado do sistema:**
+### **Heuristica 1 - Visibilidade do estado do sistema:**<br>
+O sistema deve sempre manter os usuários informados sobre o que está acontecendo através de feedback apropriado, em um tempo razoável. <br><br>
 <img width="1273" height="933" alt="image" src="https://github.com/user-attachments/assets/dbc7e225-5129-4612-a268-eed4c9e6d4f8" />
 
-> **_NOTE:_**: **escolher a tabela de declaração de violação padrão da equipe**
+### **Heuristica 3 - Controle e liberdade para o usuário:**<br>
+Estão relacionados à situação em que os usuários frequentemente escolhem as funções do sistema por engano e então necessitam de "uma saída de emergência” claramente definida para sair do estado não desejado sem ter que percorrer um longo diálogo, ou seja, é necessário suporte a undo e redo.<br><br>
+<img width="1027" height="901" alt="image" src="https://github.com/user-attachments/assets/f60304a8-8f6f-4cac-9c6d-225f379e2877" />
+
+### **Heuristica 4 - Consistência e padronização:**<br>
+Referem-se ao fato de que os usuários não deveriam ter acesso a diferentes situações, palavras ou ações representando a mesma coisa. A interface deve ter convenções não-ambíguas.<br><br>
+<img width="461" height="42" alt="image" src="https://github.com/user-attachments/assets/d304c61a-85c2-443c-9fe6-f3f53a52feac" />
+
+### **Heuristica 5 - reconhecimento em vez de memorização:**<br>
+Os erros são as principais fontes de frustração, ineficiência e ineficácia durante a utilização do sistema.<br><br>
+<img width="994" height="160" alt="image" src="https://github.com/user-attachments/assets/bd0252e6-d542-475c-ae00-3fe86a9246b7" />
+
+### **Heuristica 7 - flexibilidade e eficiência de uso:**<br>
+A ineficiência nas tarefas pode reduzir a eficácia do usuário e causar-lhes frustração. O sistema deve ser adequado tanto para usuários inexperientes quanto para usuários experientes.<br><br>
+<img width="999" height="415" alt="image" src="https://github.com/user-attachments/assets/2a2e11f0-94a6-4115-be20-b7a4330b7b14" />
+
+### **Heuristica 9 - Auxiliar os usuários a reconhecer, diagnosticar e recuperar erros:**<br>
+Mensagens de erro devem ser expressas em linguagem natural (sem códigos), indicando precisamente o erro e sugerindo uma solução.<br><br>
+<img width="992" height="424" alt="image" src="https://github.com/user-attachments/assets/eff13175-a0b3-4dae-8756-1599eb15083a" />
+
+### **Heuristica 10 - Ajuda e documentação:**<br>
+Mesmo que seja melhor que o sistema possa ser usado sem documentação, pode ser necessário fornecer ajuda e documentação. Tais informações devem ser fáceis de encontrar, ser centradas na tarefa do usuário, listar passos concretos a serem seguidos e não ser muito grandes. A ajuda deve estar facilmente acessível e on-line.<br><br>
+<img width="652" height="820" alt="image" src="https://github.com/user-attachments/assets/271d18ea-aa37-4f31-9d2b-07a62855dcd2" />
+<br><br>
+<img width="1112" height="728" alt="image" src="https://github.com/user-attachments/assets/8fb165f9-e739-4a2a-9203-166eb32b3204" />
 
 2) **INDICAÇÃO DE BOAS PRÁTICAS DE HEURÍSTICA \- HEURÍSTICAS NÃO VIOLADAS \[1 solução completa por pessoa da equipe\]**
 
-> **_NOTE:_**: **1 EXEMPLO DO SEU SISTEMA ONDE A HEURÍSTICA FOI ATENDIDA (ISSO NÃO É USADO NO MERCADO, SERVE APENAS PARA APRENDIZADO)**
+### H1 – Visibilidade
+
+Na tela de Controle Manual, o slider muda imediatamente ao usuário arrastar, mostrando feedback visual instantâneo.
+
+### H2 – Compatibilidade
+
+A tela inicial explica o robô em linguagem simples e não técnica.
+
+### H3 – Controle e liberdade
+
+É possível sair de qualquer tela rapidamente através do menu superior.
+
+### H4 – Consistência
+
+O menu superior é igual em todas as páginas.
+
+### H5 – Prevenção de erros
+
+Não é possível digitar valores manualmente nos sliders, evitando entrada inválida.
+
+### H6 – Reconhecimento
+
+Botões de navegação estão sempre visíveis, sem memorizar rotas.
+
+###H7 – Flexibilidade
+
+Sliders permitem movimentos finos e contínuos.
+
+### H8 – Minimalismo
+
+Telas contém pouco texto e apresentação clara dos elementos.
+
+### H9 – Recuperação de erros
+
+Quando um campo obrigatório está vazio (ex: formulário de compra), aparece uma mensagem indicando o que falta.
+
+### H10 – Ajuda
+
+Acessórios opcionais possuem informações explicativas.
