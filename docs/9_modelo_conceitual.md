@@ -12,7 +12,7 @@ Muitas vezes, ao encontrar informações isoladas, os visitantes não têm acess
 **Atores:** Representante institucional, gestor de laboratório, comprador público.
 
 Atualmente, instituições interessadas em adquirir robôs enfrentam um processo burocrático e desorganizado [1]. **Em situações de interesse, o comprador acessa páginas informativas que exibem valores estimados, prazos e especificações de forma direta**, eliminando a necessidade de solicitar cotações por e-mail ou telefone [2]. **Ao dispor dessas informações de forma clara, o representante consegue rapidamente avaliar a viabilidade orçamentária e decidir prosseguir com a compra**, reduzindo o tempo gasto em trocas de mensagens e diminuindo a perda de oportunidades [3].<br>
-Muitos locais que divulgam projetos técnicos mostram apenas artigos ou resultados de pesquisa, sem um caminho simples para manifestar interesse comercial [4]. **Quando existe uma seção dedicada para formalizar pedidos de cotação, o representante preenche dados institucionais básicos e recebe confirmação imediata de recebimento**, sem necessidade de criar conta ou negociar por e-mail, o que evita o abandono do processo por falta de praticidade [5].
+Muitos locais que divulgam projetos técnicos mostram apenas artigos ou resultados de pesquisa, sem um caminho simples para manifestar interesse comercial [4]. **Quando existe uma seção dedicada para formalizar pedidos de cotação, o representante preenche dados de pagamento, confirma, e recebe confirmação imediata de compra**, sem necessidade de criar conta ou negociar por e-mail, o que evita o abandono do processo por falta de praticidade [5].
 
 ### Cenário C - Diagnóstico / Comunicação
 **Atores:** Técnico de manutenção, pesquisador em laboratório, operador remoto.
