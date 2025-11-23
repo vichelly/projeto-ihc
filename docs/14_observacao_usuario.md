@@ -30,19 +30,19 @@
 
 | Tarefa | Grau de Sucesso | Total de Erros | Tipos de Erros                                           | Tempo Necessário | Grau de Satisfação |
 | ------ | --------------- | -------------- | -------------------------------------------------------- | ---------------- | ------------------ |
-| 1      | Sucesso    | 1              | (1) Clicou no botão "Dashboard" (Hero) antes de rolar para ver o vídeo e o form.           | 12s               |  Satisfeito    |
-| 2      | Sucesso  | 0              | - | 36s              | Satisfeito      |
-| 3      | Sucesso  | 2              | (1) Tentou clicar no "Robot Model" (SVG) para obter logs. (1) Demorou para achar o filtro de logs.       | 1 min 15 seg              | Satisfação alta  |
-| 4      | Sucesso  | 1              | (1) Não encontrou botão “Exportar PDF” de imediato       | 1 min 15 seg              | Satisfação alta  |
+| 1      | Sucesso    | 1              | (1) Clicou no botão "Dashboard" (Hero) antes de rolar para ver o vídeo e o form.           | 06s               |  Satisfeito    |
+| 2      | Sucesso  | 0              | (surpresa ao obter os logs em formato json rapido) | 20s              | Satisfeito      |
+| 3      | Sucesso  | 0              | (gostou de ver que o relatorio json estava completo)       | 29s             | Satisfação alta  |
+| 4      | Sucesso  | 0              | (Navegou por todas as paginas e elogiou o design)       | 1 min              | Satisfação alta  |
 
 ### Lucas Sombra
 
 | Tarefa | Grau de Sucesso | Total de Erros | Tipos de Erros                                  | Tempo Necessário | Grau de Satisfação |
 | ------ | --------------- | -------------- | ----------------------------------------------- | ---------------- | ------------------ |
-| 1      | Sucesso Total   | 0              | —                                               | 5s               | Muito satisfeita   |
-| 2      | Sucesso Parcial   | 2              | (1) Clicou em "Finalizar Pagamento" sem preencher os campos (esperava validação). (1) Se assustou com o preço.| 8s               | Alta satisfação    |
-| 3      | Falha | 4              | (1) Clicou no "Terminal" e digitou "ajuda". (1) Não entendeu a diferença de MQTT/ROS2. (1) Se sentiu "sobrecarregado" com os logs. (1) Desistiu. | timeout              | Frustração Alta  |
-| 4      | Falha | 3              | (1) Moveu o slider do ombro para 180° bruscamente. (1) Tremeu ao ver o modelo 2D se mexer. (1) Desistiu com "medo de quebrar". | 40s              | Confusão  |
+| 1      | Falha   | 1              | (1) Esperava ver um video no inicio | 10s               | Insatisfeito   |
+| 2      | Sucesso    | 1              | ( Clicou em "Finalizar Pagamento" sem preencher os campos, se surpreendeu pois havia verificacao de campos.) (1) Se assustou com o preço.| 46s               | Alta satisfação    |
+| 3      | Sucesso | 0       | (preencheu suas informacoes e o pagamento foi realizado)  | 1min 29s              | Alta satisfacao  |
+| 4      | Sucesso Parcial | 1              | (1) Achou estranho voltar a tela inicial apenas apos clicar em botao "fazer mais compras" ( conseguiu voltar para tela inicial pos compra ) | 1min 32seg              | Confusão  |
 
 
 ### Livia Lumi
@@ -63,6 +63,15 @@
 | 4      | Não Tentou  | 0              | - | -              | -  |
 
 ---
+
+
+# Links dos videos de teste
+## Teste saori
+https://youtu.be/Sr1vuSyJccc
+## Teste Sombra
+https://youtu.be/AbViBvpC-Mg
+
+## Teste
 
 # Conclusão da avaliação por observação do usuário
 Conclusão da avaliação por observação do usuário
