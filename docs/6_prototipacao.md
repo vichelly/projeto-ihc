@@ -17,9 +17,9 @@ tempo real.
 #### Tecnologias Avançadas
 
 Principais pilares do sistema: - Visão Computacional para captura de
-movimentos humanos\
-- Processamento com ROS2 para controle articulado\
-- Comunicação MQTT via WebSocket\
+movimentos humanos
+- Processamento com ROS2 para controle articulado
+- Comunicação MQTT via WebSocket
 - Algoritmos de replicação para transformar poses humanas em movimentos
 robóticos
 
@@ -31,16 +31,16 @@ diagnóstico.
 
 ### Especificações Técnicas
 
-O protótipo utiliza: - Raspberry Pi 4\
-- ROS2 Jazzy\
-- MQTT over WebSocket\
-- 6 DOF de articulação\
+O protótipo utiliza: - Raspberry Pi 4
+- ROS2 Jazzy
+- MQTT over WebSocket
+- 6 DOF de articulação
 - Interface Web desenvolvida com React e TypeScript
 
 ### Métricas de Performance
 
-Metas estabelecidas para o sistema: - 99.5% de precisão nos movimentos\
-- Latência inferior a 50 ms\
+Metas estabelecidas para o sistema: - 99.5% de precisão nos movimentos
+- Latência inferior a 50 ms
 - Operação contínua 24/7
 
 A baixa latência é fundamental, pois ações correlacionadas devem ocorrer
@@ -72,7 +72,7 @@ Botões para: - Iniciar replicação
 
 ### Status do Sistema e Hardware
 
-Painéis exibem: - Estado da comunicação MQTT\
+Painéis exibem: - Estado da comunicação MQTT
 - Estado do ROS2
 - Telemetria elétrica
 - Temperatura da CPU e dos servos
@@ -116,13 +116,13 @@ Tela para configuração e aquisição do protótipo ATENA.
 
 ### Robô ATENA -- Modelo Base
 
--   Preço: R\$ 4.999,00\
--   6 DOF\
+-   Preço: R\$ 4.999,00
+-   6 DOF
 -   Garantia de 2 anos
 
 ### Acessórios Opcionais
 
--   Câmera HD adicional\
+-   Câmera HD adicional
 -   Base móvel
 
 ### Resumo do Pedido
