@@ -82,24 +82,24 @@ Pontos positivos
 
 Os aspectos mais elogiados e que garantiram o sucesso da maioria das tarefas estão diretamente ligados à eficiência funcional e à qualidade da interface:
 
-    Eficiência na Aquisição de Dados (Back-end e Relatórios): A velocidade e a integridade na entrega de dados foram altamente satisfatórias. A usuária Nathalia Saori (Pesquisador) expressou surpresa ao obter os logs em formato JSON rapidamente, e posteriormente, elogiou a completude do relatório gerado (Tarefas 2 e 3).
+Eficiência na Aquisição de Dados (Back-end e Relatórios): A velocidade e a integridade na entrega de dados foram altamente satisfatórias. A usuária Nathalia Saori (Pesquisador) expressou surpresa ao obter os logs em formato JSON rapidamente, e posteriormente, elogiou a completude do relatório gerado (Tarefas 2 e 3).
 
-    Controle e Feedback em Tempo Real: As funcionalidades de controle apresentaram excelente desempenho. A usuária Livia Lumi (Técnico) elogiou a imediata resposta do sistema ao clicar no botão de gravar, bem como a fluidez da visualização em tempo real (Tarefa 1). O reset de posição também foi destacado como um recurso funcional e responsivo (Tarefa 2).
+Controle e Feedback em Tempo Real: As funcionalidades de controle apresentaram excelente desempenho. A usuária Livia Lumi (Técnico) elogiou a imediata resposta do sistema ao clicar no botão de gravar, bem como a fluidez da visualização em tempo real (Tarefa 1). O reset de posição também foi destacado como um recurso funcional e responsivo (Tarefa 2).
 
-    Design da Interface (UX/UI): O aspecto visual foi bem recebido. Nathalia Saori elogiou explicitamente o design durante a navegação exploratória (Tarefa 4).
+Design da Interface (UX/UI): O aspecto visual foi bem recebido. Nathalia Saori elogiou explicitamente o design durante a navegação exploratória (Tarefa 4).
 
-    Validação de Dados em Formulários: O fluxo de compra demonstrou robustez na validação. Lucas Sombra (Comprador) tentou avançar o pagamento sem preencher os campos, mas a verificação impediu o erro, indicando a aplicação de regras de negócio essenciais (Tarefa 2).
+Validação de Dados em Formulários: O fluxo de compra demonstrou robustez na validação. Lucas Sombra (Comprador) tentou avançar o pagamento sem preencher os campos, mas a verificação impediu o erro, indicando a aplicação de regras de negócio essenciais (Tarefa 2).
 
 Pontos negativos
 
 As falhas e confusões registradas concentram-se principalmente em aspectos de fluxo de navegação, gestão de expectativas e clareza de conteúdo:
 
-    Fluxo de Navegação Não Intuitivo Pós-Transação: Após a conclusão da compra, Lucas Sombra (Comprador) demonstrou confusão ao ter que clicar no botão "fazer mais compras" para retornar à tela inicial, indicando que o fluxo de saída ou o retorno à Home/Dashboard após uma conversão é ambíguo (Tarefa 4).
+Fluxo de Navegação Não Intuitivo Pós-Transação: Após a conclusão da compra, Lucas Sombra (Comprador) demonstrou confusão ao ter que clicar no botão "fazer mais compras" para retornar à tela inicial, indicando que o fluxo de saída ou o retorno à Home/Dashboard após uma conversão é ambíguo (Tarefa 4).
 
-    Ausência de Elementos de Contexto e Expectativa: A expectativa do usuário nem sempre foi atendida na tela inicial. Lucas Sombra (Comprador) falhou na Tarefa 1 por "esperar ver um vídeo no início", sugerindo que um elemento crucial de apresentação ou onboarding está faltando ou não está visível o suficiente.
+Ausência de Elementos de Contexto e Expectativa: A expectativa do usuário nem sempre foi atendida na tela inicial. Lucas Sombra (Comprador) falhou na Tarefa 1 por "esperar ver um vídeo no início", sugerindo que um elemento crucial de apresentação ou onboarding está faltando ou não está visível o suficiente.
 
-    Problemas de Descoberta de Funcionalidades (Discoverability): A usabilidade foi severamente comprometida pela dificuldade em localizar um recurso existente. Livia Lumi (Técnico) falhou na Tarefa 3 por não conseguir encontrar a gravação de movimentos, o que aponta para uma falha na arquitetura da informação ou na rotulagem da funcionalidade.
+Problemas de Descoberta de Funcionalidades (Discoverability): A usabilidade foi severamente comprometida pela dificuldade em localizar um recurso existente. Livia Lumi (Técnico) falhou na Tarefa 3 por não conseguir encontrar a gravação de movimentos, o que aponta para uma falha na arquitetura da informação ou na rotulagem da funcionalidade.
 
-    Falta de Clareza Terminológica: A terminologia técnica interna não foi compreendida por usuários de diferentes perfis. Gabriel Vertamatti (Leigo) não conseguiu entender o que significava "Base Móvel" e buscou uma descrição que não estava presente, indicando a necessidade de tooltips, glossários ou legendas explicativas para termos específicos (Tarefa 3).
+Falta de Clareza Terminológica: A terminologia técnica interna não foi compreendida por usuários de diferentes perfis. Gabriel Vertamatti (Leigo) não conseguiu entender o que significava "Base Móvel" e buscou uma descrição que não estava presente, indicando a necessidade de tooltips, glossários ou legendas explicativas para termos específicos (Tarefa 3).
 
-    Gestão de Expectativa de Preço: Embora não seja um erro de UI, a reação de "assustar com o preço" de Lucas Sombra (Comprador) é um feedback crítico que deve ser considerado. Sugere que a informação de custo pode estar sendo apresentada sem o devido contexto ou sem a progressão esperada em um funil de compras.
+Gestão de Expectativa de Preço: Embora não seja um erro de UI, a reação de "assustar com o preço" de Lucas Sombra (Comprador) é um feedback crítico que deve ser considerado. Sugere que a informação de custo pode estar sendo apresentada sem o devido contexto ou sem a progressão esperada em um funil de compras.
