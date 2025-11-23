@@ -96,7 +96,7 @@ Não é possível digitar valores manualmente nos sliders, evitando entrada inv�
 
 Botões de navegação estão sempre visíveis, sem memorizar rotas.
 
-###H7 – Flexibilidade
+### H7 – Flexibilidade
 
 Sliders permitem movimentos finos e contínuos.
 
