@@ -65,16 +65,16 @@ Mostra o modelo do robô com ângulos das juntas em tempo real.
 
 ### Controles Principais
 
-Botões para: - Iniciar replicação\
-- Controle manual\
-- Ativar modo demonstração\
+Botões para: - Iniciar replicação
+- Controle manual
+- Ativar modo demonstração
 - Desligar o sistema
 
 ### Status do Sistema e Hardware
 
 Painéis exibem: - Estado da comunicação MQTT\
-- Estado do ROS2\
-- Telemetria elétrica\
+- Estado do ROS2
+- Telemetria elétrica
 - Temperatura da CPU e dos servos
 
 ### Logs Detalhados
@@ -108,7 +108,7 @@ Modelo do robô atualiza conforme os sliders são ajustados.
 Sliders organizados para ombro, cotovelo e punho dos braços esquerdo e
 direito.
 
-## 4. Loja / Configurador do Robô
+## 4. Loja 
 
 ![Loja](https://github.com/user-attachments/assets/016169fa-d842-4d79-a5f1-b02e84a884df)
 
